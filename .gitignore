@@ -1,0 +1,20 @@
+# Private reference screenshots — never publish
+inspiration/
+# OS / cruft
+.DS_Store
+**/.DS_Store
+*.log
+catalog_hold/
+catalog/*/new/
+catalog/*/New/
+catalog/new/
+catalog/New/
+
+# Internal prompt files — never publish
+PROMPTS_*.md
+
+# Internal working notes
+catalog_b1_mapping.txt
+catalog_*_mapping.txt
+catalog/originals/
+catalog/Originals/

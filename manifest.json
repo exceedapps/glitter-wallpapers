@@ -1,0 +1,357 @@
+{
+  "version": 2,
+  "categories": [
+    {
+      "id": "glitter",
+      "name": "Glitter"
+    },
+    {
+      "id": "pink_aesthetic",
+      "name": "Pink"
+    },
+    {
+      "id": "quotes",
+      "name": "Quotes"
+    },
+    {
+      "id": "coquette",
+      "name": "Coquette"
+    },
+    {
+      "id": "hearts",
+      "name": "Hearts"
+    },
+    {
+      "id": "butterflies",
+      "name": "Butterflies"
+    },
+    {
+      "id": "dark_girly",
+      "name": "Dark Girly"
+    },
+    {
+      "id": "y2k",
+      "name": "Y2K"
+    },
+    {
+      "id": "floral",
+      "name": "Floral"
+    },
+    {
+      "id": "dreamy",
+      "name": "Dreamy"
+    },
+    {
+      "id": "cute",
+      "name": "Cute"
+    }
+  ],
+  "wallpapers": [
+    {
+      "id": "glitter_new_b1_01",
+      "title": "Sparkle",
+      "category": "glitter",
+      "author": "AI",
+      "thumb": "catalog/glitter/thumbs/glitter_new_b1_01.webp",
+      "regular": "catalog/glitter/preview/glitter_new_b1_01.webp",
+      "full": "catalog/glitter/glitter_new_b1_01.png"
+    },
+    {
+      "id": "pink_aesthetic_new_b1_01",
+      "title": "Blush",
+      "category": "pink_aesthetic",
+      "author": "AI",
+      "thumb": "catalog/pink_aesthetic/thumbs/pink_aesthetic_new_b1_01.webp",
+      "regular": "catalog/pink_aesthetic/preview/pink_aesthetic_new_b1_01.webp",
+      "full": "catalog/pink_aesthetic/pink_aesthetic_new_b1_01.png"
+    },
+    {
+      "id": "quotes_new_b1_01",
+      "title": "Affirmations",
+      "category": "quotes",
+      "author": "AI",
+      "thumb": "catalog/quotes/thumbs/quotes_new_b1_01.webp",
+      "regular": "catalog/quotes/preview/quotes_new_b1_01.webp",
+      "full": "catalog/quotes/quotes_new_b1_01.png"
+    },
+    {
+      "id": "coquette_new_b1_01",
+      "title": "Bows & Lace",
+      "category": "coquette",
+      "author": "AI",
+      "thumb": "catalog/coquette/thumbs/coquette_new_b1_01.webp",
+      "regular": "catalog/coquette/preview/coquette_new_b1_01.webp",
+      "full": "catalog/coquette/coquette_new_b1_01.png"
+    },
+    {
+      "id": "hearts_new_b1_01",
+      "title": "Love",
+      "category": "hearts",
+      "author": "AI",
+      "thumb": "catalog/hearts/thumbs/hearts_new_b1_01.webp",
+      "regular": "catalog/hearts/preview/hearts_new_b1_01.webp",
+      "full": "catalog/hearts/hearts_new_b1_01.png"
+    },
+    {
+      "id": "butterflies_new_b1_01",
+      "title": "Flutter",
+      "category": "butterflies",
+      "author": "AI",
+      "thumb": "catalog/butterflies/thumbs/butterflies_new_b1_01.webp",
+      "regular": "catalog/butterflies/preview/butterflies_new_b1_01.webp",
+      "full": "catalog/butterflies/butterflies_new_b1_01.png"
+    },
+    {
+      "id": "dark_girly_new_b1_01",
+      "title": "Midnight Rose",
+      "category": "dark_girly",
+      "author": "AI",
+      "thumb": "catalog/dark_girly/thumbs/dark_girly_new_b1_01.webp",
+      "regular": "catalog/dark_girly/preview/dark_girly_new_b1_01.webp",
+      "full": "catalog/dark_girly/dark_girly_new_b1_01.png"
+    },
+    {
+      "id": "y2k_new_b1_01",
+      "title": "Pop Princess",
+      "category": "y2k",
+      "author": "AI",
+      "thumb": "catalog/y2k/thumbs/y2k_new_b1_01.webp",
+      "regular": "catalog/y2k/preview/y2k_new_b1_01.webp",
+      "full": "catalog/y2k/y2k_new_b1_01.png"
+    },
+    {
+      "id": "floral_new_b1_01",
+      "title": "Bloom",
+      "category": "floral",
+      "author": "AI",
+      "thumb": "catalog/floral/thumbs/floral_new_b1_01.webp",
+      "regular": "catalog/floral/preview/floral_new_b1_01.webp",
+      "full": "catalog/floral/floral_new_b1_01.png"
+    },
+    {
+      "id": "dreamy_new_b1_01",
+      "title": "Daydream",
+      "category": "dreamy",
+      "author": "AI",
+      "thumb": "catalog/dreamy/thumbs/dreamy_new_b1_01.webp",
+      "regular": "catalog/dreamy/preview/dreamy_new_b1_01.webp",
+      "full": "catalog/dreamy/dreamy_new_b1_01.png"
+    },
+    {
+      "id": "cute_new_b1_01",
+      "title": "Sweet",
+      "category": "cute",
+      "author": "AI",
+      "thumb": "catalog/cute/thumbs/cute_new_b1_01.webp",
+      "regular": "catalog/cute/preview/cute_new_b1_01.webp",
+      "full": "catalog/cute/cute_new_b1_01.png"
+    },
+    {
+      "id": "pink_aesthetic_new_b1_02",
+      "title": "Blush",
+      "category": "pink_aesthetic",
+      "author": "AI",
+      "thumb": "catalog/pink_aesthetic/thumbs/pink_aesthetic_new_b1_02.webp",
+      "regular": "catalog/pink_aesthetic/preview/pink_aesthetic_new_b1_02.webp",
+      "full": "catalog/pink_aesthetic/pink_aesthetic_new_b1_02.png"
+    },
+    {
+      "id": "quotes_new_b1_02",
+      "title": "Affirmations",
+      "category": "quotes",
+      "author": "AI",
+      "thumb": "catalog/quotes/thumbs/quotes_new_b1_02.webp",
+      "regular": "catalog/quotes/preview/quotes_new_b1_02.webp",
+      "full": "catalog/quotes/quotes_new_b1_02.png"
+    },
+    {
+      "id": "coquette_new_b1_02",
+      "title": "Bows & Lace",
+      "category": "coquette",
+      "author": "AI",
+      "thumb": "catalog/coquette/thumbs/coquette_new_b1_02.webp",
+      "regular": "catalog/coquette/preview/coquette_new_b1_02.webp",
+      "full": "catalog/coquette/coquette_new_b1_02.png"
+    },
+    {
+      "id": "dark_girly_new_b1_02",
+      "title": "Midnight Rose",
+      "category": "dark_girly",
+      "author": "AI",
+      "thumb": "catalog/dark_girly/thumbs/dark_girly_new_b1_02.webp",
+      "regular": "catalog/dark_girly/preview/dark_girly_new_b1_02.webp",
+      "full": "catalog/dark_girly/dark_girly_new_b1_02.png"
+    },
+    {
+      "id": "y2k_new_b1_02",
+      "title": "Pop Princess",
+      "category": "y2k",
+      "author": "AI",
+      "thumb": "catalog/y2k/thumbs/y2k_new_b1_02.webp",
+      "regular": "catalog/y2k/preview/y2k_new_b1_02.webp",
+      "full": "catalog/y2k/y2k_new_b1_02.png"
+    },
+    {
+      "id": "floral_new_b1_02",
+      "title": "Bloom",
+      "category": "floral",
+      "author": "AI",
+      "thumb": "catalog/floral/thumbs/floral_new_b1_02.webp",
+      "regular": "catalog/floral/preview/floral_new_b1_02.webp",
+      "full": "catalog/floral/floral_new_b1_02.png"
+    },
+    {
+      "id": "dreamy_new_b1_02",
+      "title": "Daydream",
+      "category": "dreamy",
+      "author": "AI",
+      "thumb": "catalog/dreamy/thumbs/dreamy_new_b1_02.webp",
+      "regular": "catalog/dreamy/preview/dreamy_new_b1_02.webp",
+      "full": "catalog/dreamy/dreamy_new_b1_02.png"
+    },
+    {
+      "id": "cute_new_b1_02",
+      "title": "Sweet",
+      "category": "cute",
+      "author": "AI",
+      "thumb": "catalog/cute/thumbs/cute_new_b1_02.webp",
+      "regular": "catalog/cute/preview/cute_new_b1_02.webp",
+      "full": "catalog/cute/cute_new_b1_02.png"
+    },
+    {
+      "id": "quotes_new_b1_03",
+      "title": "Affirmations",
+      "category": "quotes",
+      "author": "AI",
+      "thumb": "catalog/quotes/thumbs/quotes_new_b1_03.webp",
+      "regular": "catalog/quotes/preview/quotes_new_b1_03.webp",
+      "full": "catalog/quotes/quotes_new_b1_03.png"
+    },
+    {
+      "id": "dark_girly_new_b1_03",
+      "title": "Midnight Rose",
+      "category": "dark_girly",
+      "author": "AI",
+      "thumb": "catalog/dark_girly/thumbs/dark_girly_new_b1_03.webp",
+      "regular": "catalog/dark_girly/preview/dark_girly_new_b1_03.webp",
+      "full": "catalog/dark_girly/dark_girly_new_b1_03.png"
+    },
+    {
+      "id": "y2k_new_b1_03",
+      "title": "Pop Princess",
+      "category": "y2k",
+      "author": "AI",
+      "thumb": "catalog/y2k/thumbs/y2k_new_b1_03.webp",
+      "regular": "catalog/y2k/preview/y2k_new_b1_03.webp",
+      "full": "catalog/y2k/y2k_new_b1_03.png"
+    },
+    {
+      "id": "floral_new_b1_03",
+      "title": "Bloom",
+      "category": "floral",
+      "author": "AI",
+      "thumb": "catalog/floral/thumbs/floral_new_b1_03.webp",
+      "regular": "catalog/floral/preview/floral_new_b1_03.webp",
+      "full": "catalog/floral/floral_new_b1_03.png"
+    },
+    {
+      "id": "dreamy_new_b1_03",
+      "title": "Daydream",
+      "category": "dreamy",
+      "author": "AI",
+      "thumb": "catalog/dreamy/thumbs/dreamy_new_b1_03.webp",
+      "regular": "catalog/dreamy/preview/dreamy_new_b1_03.webp",
+      "full": "catalog/dreamy/dreamy_new_b1_03.png"
+    },
+    {
+      "id": "quotes_new_b1_04",
+      "title": "Affirmations",
+      "category": "quotes",
+      "author": "AI",
+      "thumb": "catalog/quotes/thumbs/quotes_new_b1_04.webp",
+      "regular": "catalog/quotes/preview/quotes_new_b1_04.webp",
+      "full": "catalog/quotes/quotes_new_b1_04.png"
+    },
+    {
+      "id": "dark_girly_new_b1_04",
+      "title": "Midnight Rose",
+      "category": "dark_girly",
+      "author": "AI",
+      "thumb": "catalog/dark_girly/thumbs/dark_girly_new_b1_04.webp",
+      "regular": "catalog/dark_girly/preview/dark_girly_new_b1_04.webp",
+      "full": "catalog/dark_girly/dark_girly_new_b1_04.png"
+    },
+    {
+      "id": "y2k_new_b1_04",
+      "title": "Pop Princess",
+      "category": "y2k",
+      "author": "AI",
+      "thumb": "catalog/y2k/thumbs/y2k_new_b1_04.webp",
+      "regular": "catalog/y2k/preview/y2k_new_b1_04.webp",
+      "full": "catalog/y2k/y2k_new_b1_04.png"
+    },
+    {
+      "id": "floral_new_b1_04",
+      "title": "Bloom",
+      "category": "floral",
+      "author": "AI",
+      "thumb": "catalog/floral/thumbs/floral_new_b1_04.webp",
+      "regular": "catalog/floral/preview/floral_new_b1_04.webp",
+      "full": "catalog/floral/floral_new_b1_04.png"
+    },
+    {
+      "id": "quotes_new_b1_05",
+      "title": "Affirmations",
+      "category": "quotes",
+      "author": "AI",
+      "thumb": "catalog/quotes/thumbs/quotes_new_b1_05.webp",
+      "regular": "catalog/quotes/preview/quotes_new_b1_05.webp",
+      "full": "catalog/quotes/quotes_new_b1_05.png"
+    },
+    {
+      "id": "dark_girly_new_b1_05",
+      "title": "Midnight Rose",
+      "category": "dark_girly",
+      "author": "AI",
+      "thumb": "catalog/dark_girly/thumbs/dark_girly_new_b1_05.webp",
+      "regular": "catalog/dark_girly/preview/dark_girly_new_b1_05.webp",
+      "full": "catalog/dark_girly/dark_girly_new_b1_05.png"
+    },
+    {
+      "id": "y2k_new_b1_05",
+      "title": "Pop Princess",
+      "category": "y2k",
+      "author": "AI",
+      "thumb": "catalog/y2k/thumbs/y2k_new_b1_05.webp",
+      "regular": "catalog/y2k/preview/y2k_new_b1_05.webp",
+      "full": "catalog/y2k/y2k_new_b1_05.png"
+    },
+    {
+      "id": "quotes_new_b1_06",
+      "title": "Affirmations",
+      "category": "quotes",
+      "author": "AI",
+      "thumb": "catalog/quotes/thumbs/quotes_new_b1_06.webp",
+      "regular": "catalog/quotes/preview/quotes_new_b1_06.webp",
+      "full": "catalog/quotes/quotes_new_b1_06.png"
+    },
+    {
+      "id": "quotes_new_b1_07",
+      "title": "Affirmations",
+      "category": "quotes",
+      "author": "AI",
+      "thumb": "catalog/quotes/thumbs/quotes_new_b1_07.webp",
+      "regular": "catalog/quotes/preview/quotes_new_b1_07.webp",
+      "full": "catalog/quotes/quotes_new_b1_07.png"
+    },
+    {
+      "id": "quotes_new_b1_08",
+      "title": "Affirmations",
+      "category": "quotes",
+      "author": "AI",
+      "thumb": "catalog/quotes/thumbs/quotes_new_b1_08.webp",
+      "regular": "catalog/quotes/preview/quotes_new_b1_08.webp",
+      "full": "catalog/quotes/quotes_new_b1_08.png"
+    }
+  ]
+}
