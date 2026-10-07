@@ -32,22 +32,22 @@
   ],
   "wallpapers": [
     {
-      "id": "glitter_new_b2_01",
+      "id": "glitter_new_b3_01",
       "title": "Sparkle",
       "category": "glitter",
       "author": "AI",
-      "thumb": "catalog/glitter/thumbs/glitter_new_b2_01.webp",
-      "regular": "catalog/glitter/preview/glitter_new_b2_01.webp",
-      "full": "catalog/glitter/glitter_new_b2_01.png"
+      "thumb": "catalog/glitter/thumbs/glitter_new_b3_01.webp",
+      "regular": "catalog/glitter/preview/glitter_new_b3_01.webp",
+      "full": "catalog/glitter/glitter_new_b3_01.png"
     },
     {
-      "id": "soft_pink_new_b2_01",
+      "id": "soft_pink_new_b3_01",
       "title": "Blush",
       "category": "soft_pink",
       "author": "AI",
-      "thumb": "catalog/soft_pink/thumbs/soft_pink_new_b2_01.webp",
-      "regular": "catalog/soft_pink/preview/soft_pink_new_b2_01.webp",
-      "full": "catalog/soft_pink/soft_pink_new_b2_01.png"
+      "thumb": "catalog/soft_pink/thumbs/soft_pink_new_b3_01.webp",
+      "regular": "catalog/soft_pink/preview/soft_pink_new_b3_01.webp",
+      "full": "catalog/soft_pink/soft_pink_new_b3_01.png"
     },
     {
       "id": "after_dark_new_b2_01",
@@ -77,40 +77,40 @@
       "full": "catalog/cute_retro/cute_retro_new_b2_01.png"
     },
     {
-      "id": "floral_new_b2_01",
+      "id": "floral_new_b3_01",
       "title": "Bloom",
       "category": "floral",
       "author": "AI",
-      "thumb": "catalog/floral/thumbs/floral_new_b2_01.webp",
-      "regular": "catalog/floral/preview/floral_new_b2_01.webp",
-      "full": "catalog/floral/floral_new_b2_01.png"
+      "thumb": "catalog/floral/thumbs/floral_new_b3_01.webp",
+      "regular": "catalog/floral/preview/floral_new_b3_01.webp",
+      "full": "catalog/floral/floral_new_b3_01.png"
     },
     {
-      "id": "dreamy_new_b2_01",
+      "id": "dreamy_new_b3_01",
       "title": "Daydream",
       "category": "dreamy",
       "author": "AI",
-      "thumb": "catalog/dreamy/thumbs/dreamy_new_b2_01.webp",
-      "regular": "catalog/dreamy/preview/dreamy_new_b2_01.webp",
-      "full": "catalog/dreamy/dreamy_new_b2_01.png"
+      "thumb": "catalog/dreamy/thumbs/dreamy_new_b3_01.webp",
+      "regular": "catalog/dreamy/preview/dreamy_new_b3_01.webp",
+      "full": "catalog/dreamy/dreamy_new_b3_01.png"
     },
     {
-      "id": "glitter_new_b2_02",
+      "id": "glitter_new_b3_02",
       "title": "Sparkle",
       "category": "glitter",
       "author": "AI",
-      "thumb": "catalog/glitter/thumbs/glitter_new_b2_02.webp",
-      "regular": "catalog/glitter/preview/glitter_new_b2_02.webp",
-      "full": "catalog/glitter/glitter_new_b2_02.png"
+      "thumb": "catalog/glitter/thumbs/glitter_new_b3_02.webp",
+      "regular": "catalog/glitter/preview/glitter_new_b3_02.webp",
+      "full": "catalog/glitter/glitter_new_b3_02.png"
     },
     {
-      "id": "soft_pink_new_b2_02",
+      "id": "soft_pink_new_b3_02",
       "title": "Blush",
       "category": "soft_pink",
       "author": "AI",
-      "thumb": "catalog/soft_pink/thumbs/soft_pink_new_b2_02.webp",
-      "regular": "catalog/soft_pink/preview/soft_pink_new_b2_02.webp",
-      "full": "catalog/soft_pink/soft_pink_new_b2_02.png"
+      "thumb": "catalog/soft_pink/thumbs/soft_pink_new_b3_02.webp",
+      "regular": "catalog/soft_pink/preview/soft_pink_new_b3_02.webp",
+      "full": "catalog/soft_pink/soft_pink_new_b3_02.png"
     },
     {
       "id": "after_dark_new_b2_02",
@@ -140,40 +140,40 @@
       "full": "catalog/cute_retro/cute_retro_new_b2_02.png"
     },
     {
-      "id": "floral_new_b2_02",
+      "id": "floral_new_b3_02",
       "title": "Bloom",
       "category": "floral",
       "author": "AI",
-      "thumb": "catalog/floral/thumbs/floral_new_b2_02.webp",
-      "regular": "catalog/floral/preview/floral_new_b2_02.webp",
-      "full": "catalog/floral/floral_new_b2_02.png"
+      "thumb": "catalog/floral/thumbs/floral_new_b3_02.webp",
+      "regular": "catalog/floral/preview/floral_new_b3_02.webp",
+      "full": "catalog/floral/floral_new_b3_02.png"
     },
     {
-      "id": "dreamy_new_b2_02",
+      "id": "dreamy_new_b3_02",
       "title": "Daydream",
       "category": "dreamy",
       "author": "AI",
-      "thumb": "catalog/dreamy/thumbs/dreamy_new_b2_02.webp",
-      "regular": "catalog/dreamy/preview/dreamy_new_b2_02.webp",
-      "full": "catalog/dreamy/dreamy_new_b2_02.png"
+      "thumb": "catalog/dreamy/thumbs/dreamy_new_b3_02.webp",
+      "regular": "catalog/dreamy/preview/dreamy_new_b3_02.webp",
+      "full": "catalog/dreamy/dreamy_new_b3_02.png"
     },
     {
-      "id": "glitter_new_b2_03",
+      "id": "glitter_new_b3_03",
       "title": "Sparkle",
       "category": "glitter",
       "author": "AI",
-      "thumb": "catalog/glitter/thumbs/glitter_new_b2_03.webp",
-      "regular": "catalog/glitter/preview/glitter_new_b2_03.webp",
-      "full": "catalog/glitter/glitter_new_b2_03.png"
+      "thumb": "catalog/glitter/thumbs/glitter_new_b3_03.webp",
+      "regular": "catalog/glitter/preview/glitter_new_b3_03.webp",
+      "full": "catalog/glitter/glitter_new_b3_03.png"
     },
     {
-      "id": "soft_pink_new_b2_03",
+      "id": "soft_pink_new_b3_03",
       "title": "Blush",
       "category": "soft_pink",
       "author": "AI",
-      "thumb": "catalog/soft_pink/thumbs/soft_pink_new_b2_03.webp",
-      "regular": "catalog/soft_pink/preview/soft_pink_new_b2_03.webp",
-      "full": "catalog/soft_pink/soft_pink_new_b2_03.png"
+      "thumb": "catalog/soft_pink/thumbs/soft_pink_new_b3_03.webp",
+      "regular": "catalog/soft_pink/preview/soft_pink_new_b3_03.webp",
+      "full": "catalog/soft_pink/soft_pink_new_b3_03.png"
     },
     {
       "id": "after_dark_new_b2_03",
@@ -203,40 +203,40 @@
       "full": "catalog/cute_retro/cute_retro_new_b2_03.png"
     },
     {
-      "id": "floral_new_b2_03",
+      "id": "floral_new_b3_03",
       "title": "Bloom",
       "category": "floral",
       "author": "AI",
-      "thumb": "catalog/floral/thumbs/floral_new_b2_03.webp",
-      "regular": "catalog/floral/preview/floral_new_b2_03.webp",
-      "full": "catalog/floral/floral_new_b2_03.png"
+      "thumb": "catalog/floral/thumbs/floral_new_b3_03.webp",
+      "regular": "catalog/floral/preview/floral_new_b3_03.webp",
+      "full": "catalog/floral/floral_new_b3_03.png"
     },
     {
-      "id": "dreamy_new_b2_03",
+      "id": "dreamy_new_b3_03",
       "title": "Daydream",
       "category": "dreamy",
       "author": "AI",
-      "thumb": "catalog/dreamy/thumbs/dreamy_new_b2_03.webp",
-      "regular": "catalog/dreamy/preview/dreamy_new_b2_03.webp",
-      "full": "catalog/dreamy/dreamy_new_b2_03.png"
+      "thumb": "catalog/dreamy/thumbs/dreamy_new_b3_03.webp",
+      "regular": "catalog/dreamy/preview/dreamy_new_b3_03.webp",
+      "full": "catalog/dreamy/dreamy_new_b3_03.png"
     },
     {
-      "id": "glitter_new_b2_04",
+      "id": "glitter_new_b2_01",
       "title": "Sparkle",
       "category": "glitter",
       "author": "AI",
-      "thumb": "catalog/glitter/thumbs/glitter_new_b2_04.webp",
-      "regular": "catalog/glitter/preview/glitter_new_b2_04.webp",
-      "full": "catalog/glitter/glitter_new_b2_04.png"
+      "thumb": "catalog/glitter/thumbs/glitter_new_b2_01.webp",
+      "regular": "catalog/glitter/preview/glitter_new_b2_01.webp",
+      "full": "catalog/glitter/glitter_new_b2_01.png"
     },
     {
-      "id": "soft_pink_new_b2_04",
+      "id": "soft_pink_new_b3_04",
       "title": "Blush",
       "category": "soft_pink",
       "author": "AI",
-      "thumb": "catalog/soft_pink/thumbs/soft_pink_new_b2_04.webp",
-      "regular": "catalog/soft_pink/preview/soft_pink_new_b2_04.webp",
-      "full": "catalog/soft_pink/soft_pink_new_b2_04.png"
+      "thumb": "catalog/soft_pink/thumbs/soft_pink_new_b3_04.webp",
+      "regular": "catalog/soft_pink/preview/soft_pink_new_b3_04.webp",
+      "full": "catalog/soft_pink/soft_pink_new_b3_04.png"
     },
     {
       "id": "after_dark_new_b2_04",
@@ -266,40 +266,40 @@
       "full": "catalog/cute_retro/cute_retro_new_b2_04.png"
     },
     {
-      "id": "floral_new_b2_04",
+      "id": "floral_new_b3_04",
       "title": "Bloom",
       "category": "floral",
       "author": "AI",
-      "thumb": "catalog/floral/thumbs/floral_new_b2_04.webp",
-      "regular": "catalog/floral/preview/floral_new_b2_04.webp",
-      "full": "catalog/floral/floral_new_b2_04.png"
+      "thumb": "catalog/floral/thumbs/floral_new_b3_04.webp",
+      "regular": "catalog/floral/preview/floral_new_b3_04.webp",
+      "full": "catalog/floral/floral_new_b3_04.png"
     },
     {
-      "id": "dreamy_new_b2_04",
+      "id": "dreamy_new_b3_04",
       "title": "Daydream",
       "category": "dreamy",
       "author": "AI",
-      "thumb": "catalog/dreamy/thumbs/dreamy_new_b2_04.webp",
-      "regular": "catalog/dreamy/preview/dreamy_new_b2_04.webp",
-      "full": "catalog/dreamy/dreamy_new_b2_04.png"
+      "thumb": "catalog/dreamy/thumbs/dreamy_new_b3_04.webp",
+      "regular": "catalog/dreamy/preview/dreamy_new_b3_04.webp",
+      "full": "catalog/dreamy/dreamy_new_b3_04.png"
     },
     {
-      "id": "glitter_new_b2_05",
+      "id": "glitter_new_b2_02",
       "title": "Sparkle",
       "category": "glitter",
       "author": "AI",
-      "thumb": "catalog/glitter/thumbs/glitter_new_b2_05.webp",
-      "regular": "catalog/glitter/preview/glitter_new_b2_05.webp",
-      "full": "catalog/glitter/glitter_new_b2_05.png"
+      "thumb": "catalog/glitter/thumbs/glitter_new_b2_02.webp",
+      "regular": "catalog/glitter/preview/glitter_new_b2_02.webp",
+      "full": "catalog/glitter/glitter_new_b2_02.png"
     },
     {
-      "id": "soft_pink_new_b2_05",
+      "id": "soft_pink_new_b2_01",
       "title": "Blush",
       "category": "soft_pink",
       "author": "AI",
-      "thumb": "catalog/soft_pink/thumbs/soft_pink_new_b2_05.webp",
-      "regular": "catalog/soft_pink/preview/soft_pink_new_b2_05.webp",
-      "full": "catalog/soft_pink/soft_pink_new_b2_05.png"
+      "thumb": "catalog/soft_pink/thumbs/soft_pink_new_b2_01.webp",
+      "regular": "catalog/soft_pink/preview/soft_pink_new_b2_01.webp",
+      "full": "catalog/soft_pink/soft_pink_new_b2_01.png"
     },
     {
       "id": "after_dark_new_b2_05",
@@ -329,40 +329,40 @@
       "full": "catalog/cute_retro/cute_retro_new_b2_05.png"
     },
     {
-      "id": "floral_new_b2_05",
+      "id": "floral_new_b3_05",
       "title": "Bloom",
       "category": "floral",
       "author": "AI",
-      "thumb": "catalog/floral/thumbs/floral_new_b2_05.webp",
-      "regular": "catalog/floral/preview/floral_new_b2_05.webp",
-      "full": "catalog/floral/floral_new_b2_05.png"
+      "thumb": "catalog/floral/thumbs/floral_new_b3_05.webp",
+      "regular": "catalog/floral/preview/floral_new_b3_05.webp",
+      "full": "catalog/floral/floral_new_b3_05.png"
     },
     {
-      "id": "dreamy_new_b2_05",
+      "id": "dreamy_new_b3_05",
       "title": "Daydream",
       "category": "dreamy",
       "author": "AI",
-      "thumb": "catalog/dreamy/thumbs/dreamy_new_b2_05.webp",
-      "regular": "catalog/dreamy/preview/dreamy_new_b2_05.webp",
-      "full": "catalog/dreamy/dreamy_new_b2_05.png"
+      "thumb": "catalog/dreamy/thumbs/dreamy_new_b3_05.webp",
+      "regular": "catalog/dreamy/preview/dreamy_new_b3_05.webp",
+      "full": "catalog/dreamy/dreamy_new_b3_05.png"
     },
     {
-      "id": "glitter_new_b2_06",
+      "id": "glitter_new_b2_03",
       "title": "Sparkle",
       "category": "glitter",
       "author": "AI",
-      "thumb": "catalog/glitter/thumbs/glitter_new_b2_06.webp",
-      "regular": "catalog/glitter/preview/glitter_new_b2_06.webp",
-      "full": "catalog/glitter/glitter_new_b2_06.png"
+      "thumb": "catalog/glitter/thumbs/glitter_new_b2_03.webp",
+      "regular": "catalog/glitter/preview/glitter_new_b2_03.webp",
+      "full": "catalog/glitter/glitter_new_b2_03.png"
     },
     {
-      "id": "soft_pink_new_b2_06",
+      "id": "soft_pink_new_b2_02",
       "title": "Blush",
       "category": "soft_pink",
       "author": "AI",
-      "thumb": "catalog/soft_pink/thumbs/soft_pink_new_b2_06.webp",
-      "regular": "catalog/soft_pink/preview/soft_pink_new_b2_06.webp",
-      "full": "catalog/soft_pink/soft_pink_new_b2_06.png"
+      "thumb": "catalog/soft_pink/thumbs/soft_pink_new_b2_02.webp",
+      "regular": "catalog/soft_pink/preview/soft_pink_new_b2_02.webp",
+      "full": "catalog/soft_pink/soft_pink_new_b2_02.png"
     },
     {
       "id": "after_dark_new_b2_06",
@@ -392,40 +392,40 @@
       "full": "catalog/cute_retro/cute_retro_new_b2_06.png"
     },
     {
-      "id": "floral_new_b2_06",
+      "id": "floral_new_b2_01",
       "title": "Bloom",
       "category": "floral",
       "author": "AI",
-      "thumb": "catalog/floral/thumbs/floral_new_b2_06.webp",
-      "regular": "catalog/floral/preview/floral_new_b2_06.webp",
-      "full": "catalog/floral/floral_new_b2_06.png"
+      "thumb": "catalog/floral/thumbs/floral_new_b2_01.webp",
+      "regular": "catalog/floral/preview/floral_new_b2_01.webp",
+      "full": "catalog/floral/floral_new_b2_01.png"
     },
     {
-      "id": "dreamy_new_b2_06",
+      "id": "dreamy_new_b3_06",
       "title": "Daydream",
       "category": "dreamy",
       "author": "AI",
-      "thumb": "catalog/dreamy/thumbs/dreamy_new_b2_06.webp",
-      "regular": "catalog/dreamy/preview/dreamy_new_b2_06.webp",
-      "full": "catalog/dreamy/dreamy_new_b2_06.png"
+      "thumb": "catalog/dreamy/thumbs/dreamy_new_b3_06.webp",
+      "regular": "catalog/dreamy/preview/dreamy_new_b3_06.webp",
+      "full": "catalog/dreamy/dreamy_new_b3_06.png"
     },
     {
-      "id": "glitter_new_b2_07",
+      "id": "glitter_new_b2_04",
       "title": "Sparkle",
       "category": "glitter",
       "author": "AI",
-      "thumb": "catalog/glitter/thumbs/glitter_new_b2_07.webp",
-      "regular": "catalog/glitter/preview/glitter_new_b2_07.webp",
-      "full": "catalog/glitter/glitter_new_b2_07.png"
+      "thumb": "catalog/glitter/thumbs/glitter_new_b2_04.webp",
+      "regular": "catalog/glitter/preview/glitter_new_b2_04.webp",
+      "full": "catalog/glitter/glitter_new_b2_04.png"
     },
     {
-      "id": "soft_pink_new_b2_07",
+      "id": "soft_pink_new_b2_03",
       "title": "Blush",
       "category": "soft_pink",
       "author": "AI",
-      "thumb": "catalog/soft_pink/thumbs/soft_pink_new_b2_07.webp",
-      "regular": "catalog/soft_pink/preview/soft_pink_new_b2_07.webp",
-      "full": "catalog/soft_pink/soft_pink_new_b2_07.png"
+      "thumb": "catalog/soft_pink/thumbs/soft_pink_new_b2_03.webp",
+      "regular": "catalog/soft_pink/preview/soft_pink_new_b2_03.webp",
+      "full": "catalog/soft_pink/soft_pink_new_b2_03.png"
     },
     {
       "id": "after_dark_new_b2_07",
@@ -455,40 +455,40 @@
       "full": "catalog/cute_retro/cute_retro_new_b2_07.png"
     },
     {
-      "id": "floral_new_b2_07",
+      "id": "floral_new_b2_02",
       "title": "Bloom",
       "category": "floral",
       "author": "AI",
-      "thumb": "catalog/floral/thumbs/floral_new_b2_07.webp",
-      "regular": "catalog/floral/preview/floral_new_b2_07.webp",
-      "full": "catalog/floral/floral_new_b2_07.png"
+      "thumb": "catalog/floral/thumbs/floral_new_b2_02.webp",
+      "regular": "catalog/floral/preview/floral_new_b2_02.webp",
+      "full": "catalog/floral/floral_new_b2_02.png"
     },
     {
-      "id": "dreamy_new_b2_07",
+      "id": "dreamy_new_b3_07",
       "title": "Daydream",
       "category": "dreamy",
       "author": "AI",
-      "thumb": "catalog/dreamy/thumbs/dreamy_new_b2_07.webp",
-      "regular": "catalog/dreamy/preview/dreamy_new_b2_07.webp",
-      "full": "catalog/dreamy/dreamy_new_b2_07.png"
+      "thumb": "catalog/dreamy/thumbs/dreamy_new_b3_07.webp",
+      "regular": "catalog/dreamy/preview/dreamy_new_b3_07.webp",
+      "full": "catalog/dreamy/dreamy_new_b3_07.png"
     },
     {
-      "id": "glitter_new_b2_08",
+      "id": "glitter_new_b2_05",
       "title": "Sparkle",
       "category": "glitter",
       "author": "AI",
-      "thumb": "catalog/glitter/thumbs/glitter_new_b2_08.webp",
-      "regular": "catalog/glitter/preview/glitter_new_b2_08.webp",
-      "full": "catalog/glitter/glitter_new_b2_08.png"
+      "thumb": "catalog/glitter/thumbs/glitter_new_b2_05.webp",
+      "regular": "catalog/glitter/preview/glitter_new_b2_05.webp",
+      "full": "catalog/glitter/glitter_new_b2_05.png"
     },
     {
-      "id": "soft_pink_new_b2_08",
+      "id": "soft_pink_new_b2_04",
       "title": "Blush",
       "category": "soft_pink",
       "author": "AI",
-      "thumb": "catalog/soft_pink/thumbs/soft_pink_new_b2_08.webp",
-      "regular": "catalog/soft_pink/preview/soft_pink_new_b2_08.webp",
-      "full": "catalog/soft_pink/soft_pink_new_b2_08.png"
+      "thumb": "catalog/soft_pink/thumbs/soft_pink_new_b2_04.webp",
+      "regular": "catalog/soft_pink/preview/soft_pink_new_b2_04.webp",
+      "full": "catalog/soft_pink/soft_pink_new_b2_04.png"
     },
     {
       "id": "after_dark_new_b2_08",
@@ -518,40 +518,40 @@
       "full": "catalog/cute_retro/cute_retro_new_b2_08.png"
     },
     {
-      "id": "floral_new_b2_08",
+      "id": "floral_new_b2_03",
       "title": "Bloom",
       "category": "floral",
       "author": "AI",
-      "thumb": "catalog/floral/thumbs/floral_new_b2_08.webp",
-      "regular": "catalog/floral/preview/floral_new_b2_08.webp",
-      "full": "catalog/floral/floral_new_b2_08.png"
+      "thumb": "catalog/floral/thumbs/floral_new_b2_03.webp",
+      "regular": "catalog/floral/preview/floral_new_b2_03.webp",
+      "full": "catalog/floral/floral_new_b2_03.png"
     },
     {
-      "id": "dreamy_new_b1_01",
+      "id": "dreamy_new_b2_01",
       "title": "Daydream",
       "category": "dreamy",
       "author": "AI",
-      "thumb": "catalog/dreamy/thumbs/dreamy_new_b1_01.webp",
-      "regular": "catalog/dreamy/preview/dreamy_new_b1_01.webp",
-      "full": "catalog/dreamy/dreamy_new_b1_01.png"
+      "thumb": "catalog/dreamy/thumbs/dreamy_new_b2_01.webp",
+      "regular": "catalog/dreamy/preview/dreamy_new_b2_01.webp",
+      "full": "catalog/dreamy/dreamy_new_b2_01.png"
     },
     {
-      "id": "glitter_new_b1_01",
+      "id": "glitter_new_b2_06",
       "title": "Sparkle",
       "category": "glitter",
       "author": "AI",
-      "thumb": "catalog/glitter/thumbs/glitter_new_b1_01.webp",
-      "regular": "catalog/glitter/preview/glitter_new_b1_01.webp",
-      "full": "catalog/glitter/glitter_new_b1_01.png"
+      "thumb": "catalog/glitter/thumbs/glitter_new_b2_06.webp",
+      "regular": "catalog/glitter/preview/glitter_new_b2_06.webp",
+      "full": "catalog/glitter/glitter_new_b2_06.png"
     },
     {
-      "id": "soft_pink_new_b1_01",
+      "id": "soft_pink_new_b2_05",
       "title": "Blush",
       "category": "soft_pink",
       "author": "AI",
-      "thumb": "catalog/soft_pink/thumbs/soft_pink_new_b1_01.webp",
-      "regular": "catalog/soft_pink/preview/soft_pink_new_b1_01.webp",
-      "full": "catalog/soft_pink/soft_pink_new_b1_01.png"
+      "thumb": "catalog/soft_pink/thumbs/soft_pink_new_b2_05.webp",
+      "regular": "catalog/soft_pink/preview/soft_pink_new_b2_05.webp",
+      "full": "catalog/soft_pink/soft_pink_new_b2_05.png"
     },
     {
       "id": "after_dark_new_b2_09",
@@ -581,31 +581,40 @@
       "full": "catalog/cute_retro/cute_retro_new_b2_09.png"
     },
     {
-      "id": "floral_new_b2_09",
+      "id": "floral_new_b2_04",
       "title": "Bloom",
       "category": "floral",
       "author": "AI",
-      "thumb": "catalog/floral/thumbs/floral_new_b2_09.webp",
-      "regular": "catalog/floral/preview/floral_new_b2_09.webp",
-      "full": "catalog/floral/floral_new_b2_09.png"
+      "thumb": "catalog/floral/thumbs/floral_new_b2_04.webp",
+      "regular": "catalog/floral/preview/floral_new_b2_04.webp",
+      "full": "catalog/floral/floral_new_b2_04.png"
     },
     {
-      "id": "dreamy_new_b1_02",
+      "id": "dreamy_new_b2_02",
       "title": "Daydream",
       "category": "dreamy",
       "author": "AI",
-      "thumb": "catalog/dreamy/thumbs/dreamy_new_b1_02.webp",
-      "regular": "catalog/dreamy/preview/dreamy_new_b1_02.webp",
-      "full": "catalog/dreamy/dreamy_new_b1_02.png"
+      "thumb": "catalog/dreamy/thumbs/dreamy_new_b2_02.webp",
+      "regular": "catalog/dreamy/preview/dreamy_new_b2_02.webp",
+      "full": "catalog/dreamy/dreamy_new_b2_02.png"
     },
     {
-      "id": "soft_pink_new_b1_02",
+      "id": "glitter_new_b2_07",
+      "title": "Sparkle",
+      "category": "glitter",
+      "author": "AI",
+      "thumb": "catalog/glitter/thumbs/glitter_new_b2_07.webp",
+      "regular": "catalog/glitter/preview/glitter_new_b2_07.webp",
+      "full": "catalog/glitter/glitter_new_b2_07.png"
+    },
+    {
+      "id": "soft_pink_new_b2_06",
       "title": "Blush",
       "category": "soft_pink",
       "author": "AI",
-      "thumb": "catalog/soft_pink/thumbs/soft_pink_new_b1_02.webp",
-      "regular": "catalog/soft_pink/preview/soft_pink_new_b1_02.webp",
-      "full": "catalog/soft_pink/soft_pink_new_b1_02.png"
+      "thumb": "catalog/soft_pink/thumbs/soft_pink_new_b2_06.webp",
+      "regular": "catalog/soft_pink/preview/soft_pink_new_b2_06.webp",
+      "full": "catalog/soft_pink/soft_pink_new_b2_06.png"
     },
     {
       "id": "after_dark_new_b1_01",
@@ -626,31 +635,40 @@
       "full": "catalog/cute_retro/cute_retro_new_b2_10.png"
     },
     {
-      "id": "floral_new_b2_10",
+      "id": "floral_new_b2_05",
       "title": "Bloom",
       "category": "floral",
       "author": "AI",
-      "thumb": "catalog/floral/thumbs/floral_new_b2_10.webp",
-      "regular": "catalog/floral/preview/floral_new_b2_10.webp",
-      "full": "catalog/floral/floral_new_b2_10.png"
+      "thumb": "catalog/floral/thumbs/floral_new_b2_05.webp",
+      "regular": "catalog/floral/preview/floral_new_b2_05.webp",
+      "full": "catalog/floral/floral_new_b2_05.png"
     },
     {
-      "id": "dreamy_new_b1_03",
+      "id": "dreamy_new_b2_03",
       "title": "Daydream",
       "category": "dreamy",
       "author": "AI",
-      "thumb": "catalog/dreamy/thumbs/dreamy_new_b1_03.webp",
-      "regular": "catalog/dreamy/preview/dreamy_new_b1_03.webp",
-      "full": "catalog/dreamy/dreamy_new_b1_03.png"
+      "thumb": "catalog/dreamy/thumbs/dreamy_new_b2_03.webp",
+      "regular": "catalog/dreamy/preview/dreamy_new_b2_03.webp",
+      "full": "catalog/dreamy/dreamy_new_b2_03.png"
     },
     {
-      "id": "soft_pink_new_b1_03",
+      "id": "glitter_new_b2_08",
+      "title": "Sparkle",
+      "category": "glitter",
+      "author": "AI",
+      "thumb": "catalog/glitter/thumbs/glitter_new_b2_08.webp",
+      "regular": "catalog/glitter/preview/glitter_new_b2_08.webp",
+      "full": "catalog/glitter/glitter_new_b2_08.png"
+    },
+    {
+      "id": "soft_pink_new_b2_07",
       "title": "Blush",
       "category": "soft_pink",
       "author": "AI",
-      "thumb": "catalog/soft_pink/thumbs/soft_pink_new_b1_03.webp",
-      "regular": "catalog/soft_pink/preview/soft_pink_new_b1_03.webp",
-      "full": "catalog/soft_pink/soft_pink_new_b1_03.png"
+      "thumb": "catalog/soft_pink/thumbs/soft_pink_new_b2_07.webp",
+      "regular": "catalog/soft_pink/preview/soft_pink_new_b2_07.webp",
+      "full": "catalog/soft_pink/soft_pink_new_b2_07.png"
     },
     {
       "id": "after_dark_new_b1_02",
@@ -671,22 +689,40 @@
       "full": "catalog/cute_retro/cute_retro_new_b1_01.png"
     },
     {
-      "id": "floral_new_b2_11",
+      "id": "floral_new_b2_06",
       "title": "Bloom",
       "category": "floral",
       "author": "AI",
-      "thumb": "catalog/floral/thumbs/floral_new_b2_11.webp",
-      "regular": "catalog/floral/preview/floral_new_b2_11.webp",
-      "full": "catalog/floral/floral_new_b2_11.png"
+      "thumb": "catalog/floral/thumbs/floral_new_b2_06.webp",
+      "regular": "catalog/floral/preview/floral_new_b2_06.webp",
+      "full": "catalog/floral/floral_new_b2_06.png"
     },
     {
-      "id": "soft_pink_new_b1_04",
+      "id": "dreamy_new_b2_04",
+      "title": "Daydream",
+      "category": "dreamy",
+      "author": "AI",
+      "thumb": "catalog/dreamy/thumbs/dreamy_new_b2_04.webp",
+      "regular": "catalog/dreamy/preview/dreamy_new_b2_04.webp",
+      "full": "catalog/dreamy/dreamy_new_b2_04.png"
+    },
+    {
+      "id": "glitter_new_b1_01",
+      "title": "Sparkle",
+      "category": "glitter",
+      "author": "AI",
+      "thumb": "catalog/glitter/thumbs/glitter_new_b1_01.webp",
+      "regular": "catalog/glitter/preview/glitter_new_b1_01.webp",
+      "full": "catalog/glitter/glitter_new_b1_01.png"
+    },
+    {
+      "id": "soft_pink_new_b2_08",
       "title": "Blush",
       "category": "soft_pink",
       "author": "AI",
-      "thumb": "catalog/soft_pink/thumbs/soft_pink_new_b1_04.webp",
-      "regular": "catalog/soft_pink/preview/soft_pink_new_b1_04.webp",
-      "full": "catalog/soft_pink/soft_pink_new_b1_04.png"
+      "thumb": "catalog/soft_pink/thumbs/soft_pink_new_b2_08.webp",
+      "regular": "catalog/soft_pink/preview/soft_pink_new_b2_08.webp",
+      "full": "catalog/soft_pink/soft_pink_new_b2_08.png"
     },
     {
       "id": "after_dark_new_b1_03",
@@ -707,22 +743,31 @@
       "full": "catalog/cute_retro/cute_retro_new_b1_02.png"
     },
     {
-      "id": "floral_new_b1_01",
+      "id": "floral_new_b2_07",
       "title": "Bloom",
       "category": "floral",
       "author": "AI",
-      "thumb": "catalog/floral/thumbs/floral_new_b1_01.webp",
-      "regular": "catalog/floral/preview/floral_new_b1_01.webp",
-      "full": "catalog/floral/floral_new_b1_01.png"
+      "thumb": "catalog/floral/thumbs/floral_new_b2_07.webp",
+      "regular": "catalog/floral/preview/floral_new_b2_07.webp",
+      "full": "catalog/floral/floral_new_b2_07.png"
     },
     {
-      "id": "soft_pink_new_b1_05",
+      "id": "dreamy_new_b2_05",
+      "title": "Daydream",
+      "category": "dreamy",
+      "author": "AI",
+      "thumb": "catalog/dreamy/thumbs/dreamy_new_b2_05.webp",
+      "regular": "catalog/dreamy/preview/dreamy_new_b2_05.webp",
+      "full": "catalog/dreamy/dreamy_new_b2_05.png"
+    },
+    {
+      "id": "soft_pink_new_b1_01",
       "title": "Blush",
       "category": "soft_pink",
       "author": "AI",
-      "thumb": "catalog/soft_pink/thumbs/soft_pink_new_b1_05.webp",
-      "regular": "catalog/soft_pink/preview/soft_pink_new_b1_05.webp",
-      "full": "catalog/soft_pink/soft_pink_new_b1_05.png"
+      "thumb": "catalog/soft_pink/thumbs/soft_pink_new_b1_01.webp",
+      "regular": "catalog/soft_pink/preview/soft_pink_new_b1_01.webp",
+      "full": "catalog/soft_pink/soft_pink_new_b1_01.png"
     },
     {
       "id": "after_dark_new_b1_04",
@@ -743,13 +788,31 @@
       "full": "catalog/cute_retro/cute_retro_new_b1_03.png"
     },
     {
-      "id": "floral_new_b1_02",
+      "id": "floral_new_b2_08",
       "title": "Bloom",
       "category": "floral",
       "author": "AI",
-      "thumb": "catalog/floral/thumbs/floral_new_b1_02.webp",
-      "regular": "catalog/floral/preview/floral_new_b1_02.webp",
-      "full": "catalog/floral/floral_new_b1_02.png"
+      "thumb": "catalog/floral/thumbs/floral_new_b2_08.webp",
+      "regular": "catalog/floral/preview/floral_new_b2_08.webp",
+      "full": "catalog/floral/floral_new_b2_08.png"
+    },
+    {
+      "id": "dreamy_new_b2_06",
+      "title": "Daydream",
+      "category": "dreamy",
+      "author": "AI",
+      "thumb": "catalog/dreamy/thumbs/dreamy_new_b2_06.webp",
+      "regular": "catalog/dreamy/preview/dreamy_new_b2_06.webp",
+      "full": "catalog/dreamy/dreamy_new_b2_06.png"
+    },
+    {
+      "id": "soft_pink_new_b1_02",
+      "title": "Blush",
+      "category": "soft_pink",
+      "author": "AI",
+      "thumb": "catalog/soft_pink/thumbs/soft_pink_new_b1_02.webp",
+      "regular": "catalog/soft_pink/preview/soft_pink_new_b1_02.webp",
+      "full": "catalog/soft_pink/soft_pink_new_b1_02.png"
     },
     {
       "id": "after_dark_new_b1_05",
@@ -770,13 +833,31 @@
       "full": "catalog/cute_retro/cute_retro_new_b1_04.png"
     },
     {
-      "id": "floral_new_b1_03",
+      "id": "floral_new_b2_09",
       "title": "Bloom",
       "category": "floral",
       "author": "AI",
-      "thumb": "catalog/floral/thumbs/floral_new_b1_03.webp",
-      "regular": "catalog/floral/preview/floral_new_b1_03.webp",
-      "full": "catalog/floral/floral_new_b1_03.png"
+      "thumb": "catalog/floral/thumbs/floral_new_b2_09.webp",
+      "regular": "catalog/floral/preview/floral_new_b2_09.webp",
+      "full": "catalog/floral/floral_new_b2_09.png"
+    },
+    {
+      "id": "dreamy_new_b2_07",
+      "title": "Daydream",
+      "category": "dreamy",
+      "author": "AI",
+      "thumb": "catalog/dreamy/thumbs/dreamy_new_b2_07.webp",
+      "regular": "catalog/dreamy/preview/dreamy_new_b2_07.webp",
+      "full": "catalog/dreamy/dreamy_new_b2_07.png"
+    },
+    {
+      "id": "soft_pink_new_b1_03",
+      "title": "Blush",
+      "category": "soft_pink",
+      "author": "AI",
+      "thumb": "catalog/soft_pink/thumbs/soft_pink_new_b1_03.webp",
+      "regular": "catalog/soft_pink/preview/soft_pink_new_b1_03.webp",
+      "full": "catalog/soft_pink/soft_pink_new_b1_03.png"
     },
     {
       "id": "after_dark_new_b1_06",
@@ -797,13 +878,31 @@
       "full": "catalog/cute_retro/cute_retro_new_b1_05.png"
     },
     {
-      "id": "floral_new_b1_04",
+      "id": "floral_new_b2_10",
       "title": "Bloom",
       "category": "floral",
       "author": "AI",
-      "thumb": "catalog/floral/thumbs/floral_new_b1_04.webp",
-      "regular": "catalog/floral/preview/floral_new_b1_04.webp",
-      "full": "catalog/floral/floral_new_b1_04.png"
+      "thumb": "catalog/floral/thumbs/floral_new_b2_10.webp",
+      "regular": "catalog/floral/preview/floral_new_b2_10.webp",
+      "full": "catalog/floral/floral_new_b2_10.png"
+    },
+    {
+      "id": "dreamy_new_b1_01",
+      "title": "Daydream",
+      "category": "dreamy",
+      "author": "AI",
+      "thumb": "catalog/dreamy/thumbs/dreamy_new_b1_01.webp",
+      "regular": "catalog/dreamy/preview/dreamy_new_b1_01.webp",
+      "full": "catalog/dreamy/dreamy_new_b1_01.png"
+    },
+    {
+      "id": "soft_pink_new_b1_04",
+      "title": "Blush",
+      "category": "soft_pink",
+      "author": "AI",
+      "thumb": "catalog/soft_pink/thumbs/soft_pink_new_b1_04.webp",
+      "regular": "catalog/soft_pink/preview/soft_pink_new_b1_04.webp",
+      "full": "catalog/soft_pink/soft_pink_new_b1_04.png"
     },
     {
       "id": "cute_retro_new_b1_06",
@@ -815,6 +914,33 @@
       "full": "catalog/cute_retro/cute_retro_new_b1_06.png"
     },
     {
+      "id": "floral_new_b2_11",
+      "title": "Bloom",
+      "category": "floral",
+      "author": "AI",
+      "thumb": "catalog/floral/thumbs/floral_new_b2_11.webp",
+      "regular": "catalog/floral/preview/floral_new_b2_11.webp",
+      "full": "catalog/floral/floral_new_b2_11.png"
+    },
+    {
+      "id": "dreamy_new_b1_02",
+      "title": "Daydream",
+      "category": "dreamy",
+      "author": "AI",
+      "thumb": "catalog/dreamy/thumbs/dreamy_new_b1_02.webp",
+      "regular": "catalog/dreamy/preview/dreamy_new_b1_02.webp",
+      "full": "catalog/dreamy/dreamy_new_b1_02.png"
+    },
+    {
+      "id": "soft_pink_new_b1_05",
+      "title": "Blush",
+      "category": "soft_pink",
+      "author": "AI",
+      "thumb": "catalog/soft_pink/thumbs/soft_pink_new_b1_05.webp",
+      "regular": "catalog/soft_pink/preview/soft_pink_new_b1_05.webp",
+      "full": "catalog/soft_pink/soft_pink_new_b1_05.png"
+    },
+    {
       "id": "cute_retro_new_b1_07",
       "title": "Sweet Retro",
       "category": "cute_retro",
@@ -822,6 +948,51 @@
       "thumb": "catalog/cute_retro/thumbs/cute_retro_new_b1_07.webp",
       "regular": "catalog/cute_retro/preview/cute_retro_new_b1_07.webp",
       "full": "catalog/cute_retro/cute_retro_new_b1_07.png"
+    },
+    {
+      "id": "floral_new_b1_01",
+      "title": "Bloom",
+      "category": "floral",
+      "author": "AI",
+      "thumb": "catalog/floral/thumbs/floral_new_b1_01.webp",
+      "regular": "catalog/floral/preview/floral_new_b1_01.webp",
+      "full": "catalog/floral/floral_new_b1_01.png"
+    },
+    {
+      "id": "dreamy_new_b1_03",
+      "title": "Daydream",
+      "category": "dreamy",
+      "author": "AI",
+      "thumb": "catalog/dreamy/thumbs/dreamy_new_b1_03.webp",
+      "regular": "catalog/dreamy/preview/dreamy_new_b1_03.webp",
+      "full": "catalog/dreamy/dreamy_new_b1_03.png"
+    },
+    {
+      "id": "floral_new_b1_02",
+      "title": "Bloom",
+      "category": "floral",
+      "author": "AI",
+      "thumb": "catalog/floral/thumbs/floral_new_b1_02.webp",
+      "regular": "catalog/floral/preview/floral_new_b1_02.webp",
+      "full": "catalog/floral/floral_new_b1_02.png"
+    },
+    {
+      "id": "floral_new_b1_03",
+      "title": "Bloom",
+      "category": "floral",
+      "author": "AI",
+      "thumb": "catalog/floral/thumbs/floral_new_b1_03.webp",
+      "regular": "catalog/floral/preview/floral_new_b1_03.webp",
+      "full": "catalog/floral/floral_new_b1_03.png"
+    },
+    {
+      "id": "floral_new_b1_04",
+      "title": "Bloom",
+      "category": "floral",
+      "author": "AI",
+      "thumb": "catalog/floral/thumbs/floral_new_b1_04.webp",
+      "regular": "catalog/floral/preview/floral_new_b1_04.webp",
+      "full": "catalog/floral/floral_new_b1_04.png"
     }
   ]
 }
