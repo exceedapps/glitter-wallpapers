@@ -36,22 +36,16 @@ PREVIEW_W, PREVIEW_Q = 1440, 95
 
 # Pretty display names + a premium one-word title per category.
 CATS = {
-    "glitter":        ("Glitter",      "Sparkle"),
-    "pink_aesthetic": ("Pink",         "Blush"),
-    "quotes":         ("Quotes",       "Affirmations"),
-    "coquette":       ("Coquette",     "Bows & Lace"),
-    "hearts":         ("Hearts",       "Love"),
-    "butterflies":    ("Butterflies",  "Flutter"),
-    "diamonds":       ("Diamonds",     "Bling"),
-    "dark_girly":     ("Dark Girly",   "Midnight Rose"),
-    "y2k":            ("Y2K",          "Pop Princess"),
-    "floral":         ("Floral",       "Bloom"),
-    "dreamy":         ("Dreamy",       "Daydream"),
-    "cute":           ("Cute",         "Sweet"),
+    "glitter":    ("Glitter",       "Sparkle"),
+    "soft_pink":  ("Soft Pink",     "Blush"),
+    "after_dark": ("After Dark",    "Midnight Rose"),
+    "quotes":     ("Quotes",        "Affirmations"),
+    "cute_retro": ("Cute & Retro",  "Sweet Retro"),
+    "floral":     ("Floral",        "Bloom"),
+    "dreamy":     ("Dreamy",        "Daydream"),
 }
 # Order categories are presented in (nicer than alphabetical); unknown ones appended.
-ORDER = ["glitter", "pink_aesthetic", "quotes", "coquette", "hearts", "butterflies", "diamonds",
-         "dark_girly", "y2k", "floral", "dreamy", "cute"]
+ORDER = ["glitter", "soft_pink", "after_dark", "quotes", "cute_retro", "floral", "dreamy"]
 
 
 # Category folders kept out of the published catalog: "new"/"New"/"originals" at catalog root

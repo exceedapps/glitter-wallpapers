@@ -6,32 +6,20 @@
       "name": "Glitter"
     },
     {
-      "id": "pink_aesthetic",
-      "name": "Pink"
+      "id": "soft_pink",
+      "name": "Soft Pink"
+    },
+    {
+      "id": "after_dark",
+      "name": "After Dark"
     },
     {
       "id": "quotes",
       "name": "Quotes"
     },
     {
-      "id": "coquette",
-      "name": "Coquette"
-    },
-    {
-      "id": "hearts",
-      "name": "Hearts"
-    },
-    {
-      "id": "butterflies",
-      "name": "Butterflies"
-    },
-    {
-      "id": "dark_girly",
-      "name": "Dark Girly"
-    },
-    {
-      "id": "y2k",
-      "name": "Y2K"
+      "id": "cute_retro",
+      "name": "Cute & Retro"
     },
     {
       "id": "floral",
@@ -40,10 +28,6 @@
     {
       "id": "dreamy",
       "name": "Dreamy"
-    },
-    {
-      "id": "cute",
-      "name": "Cute"
     }
   ],
   "wallpapers": [
@@ -57,13 +41,22 @@
       "full": "catalog/glitter/glitter_new_b2_01.png"
     },
     {
-      "id": "pink_aesthetic_new_b2_01",
+      "id": "soft_pink_new_b2_01",
       "title": "Blush",
-      "category": "pink_aesthetic",
+      "category": "soft_pink",
       "author": "AI",
-      "thumb": "catalog/pink_aesthetic/thumbs/pink_aesthetic_new_b2_01.webp",
-      "regular": "catalog/pink_aesthetic/preview/pink_aesthetic_new_b2_01.webp",
-      "full": "catalog/pink_aesthetic/pink_aesthetic_new_b2_01.png"
+      "thumb": "catalog/soft_pink/thumbs/soft_pink_new_b2_01.webp",
+      "regular": "catalog/soft_pink/preview/soft_pink_new_b2_01.webp",
+      "full": "catalog/soft_pink/soft_pink_new_b2_01.png"
+    },
+    {
+      "id": "after_dark_new_b2_01",
+      "title": "Midnight Rose",
+      "category": "after_dark",
+      "author": "AI",
+      "thumb": "catalog/after_dark/thumbs/after_dark_new_b2_01.webp",
+      "regular": "catalog/after_dark/preview/after_dark_new_b2_01.webp",
+      "full": "catalog/after_dark/after_dark_new_b2_01.png"
     },
     {
       "id": "quotes_new_b2_01",
@@ -75,49 +68,13 @@
       "full": "catalog/quotes/quotes_new_b2_01.png"
     },
     {
-      "id": "coquette_new_b2_01",
-      "title": "Bows & Lace",
-      "category": "coquette",
+      "id": "cute_retro_new_b2_01",
+      "title": "Sweet Retro",
+      "category": "cute_retro",
       "author": "AI",
-      "thumb": "catalog/coquette/thumbs/coquette_new_b2_01.webp",
-      "regular": "catalog/coquette/preview/coquette_new_b2_01.webp",
-      "full": "catalog/coquette/coquette_new_b2_01.png"
-    },
-    {
-      "id": "hearts_new_b2_01",
-      "title": "Love",
-      "category": "hearts",
-      "author": "AI",
-      "thumb": "catalog/hearts/thumbs/hearts_new_b2_01.webp",
-      "regular": "catalog/hearts/preview/hearts_new_b2_01.webp",
-      "full": "catalog/hearts/hearts_new_b2_01.png"
-    },
-    {
-      "id": "butterflies_new_b2_01",
-      "title": "Flutter",
-      "category": "butterflies",
-      "author": "AI",
-      "thumb": "catalog/butterflies/thumbs/butterflies_new_b2_01.webp",
-      "regular": "catalog/butterflies/preview/butterflies_new_b2_01.webp",
-      "full": "catalog/butterflies/butterflies_new_b2_01.png"
-    },
-    {
-      "id": "dark_girly_new_b2_01",
-      "title": "Midnight Rose",
-      "category": "dark_girly",
-      "author": "AI",
-      "thumb": "catalog/dark_girly/thumbs/dark_girly_new_b2_01.webp",
-      "regular": "catalog/dark_girly/preview/dark_girly_new_b2_01.webp",
-      "full": "catalog/dark_girly/dark_girly_new_b2_01.png"
-    },
-    {
-      "id": "y2k_new_b2_01",
-      "title": "Pop Princess",
-      "category": "y2k",
-      "author": "AI",
-      "thumb": "catalog/y2k/thumbs/y2k_new_b2_01.webp",
-      "regular": "catalog/y2k/preview/y2k_new_b2_01.webp",
-      "full": "catalog/y2k/y2k_new_b2_01.png"
+      "thumb": "catalog/cute_retro/thumbs/cute_retro_new_b2_01.webp",
+      "regular": "catalog/cute_retro/preview/cute_retro_new_b2_01.webp",
+      "full": "catalog/cute_retro/cute_retro_new_b2_01.png"
     },
     {
       "id": "floral_new_b2_01",
@@ -138,15 +95,6 @@
       "full": "catalog/dreamy/dreamy_new_b2_01.png"
     },
     {
-      "id": "cute_new_b2_01",
-      "title": "Sweet",
-      "category": "cute",
-      "author": "AI",
-      "thumb": "catalog/cute/thumbs/cute_new_b2_01.webp",
-      "regular": "catalog/cute/preview/cute_new_b2_01.webp",
-      "full": "catalog/cute/cute_new_b2_01.png"
-    },
-    {
       "id": "glitter_new_b2_02",
       "title": "Sparkle",
       "category": "glitter",
@@ -156,13 +104,22 @@
       "full": "catalog/glitter/glitter_new_b2_02.png"
     },
     {
-      "id": "pink_aesthetic_new_b2_02",
+      "id": "soft_pink_new_b2_02",
       "title": "Blush",
-      "category": "pink_aesthetic",
+      "category": "soft_pink",
       "author": "AI",
-      "thumb": "catalog/pink_aesthetic/thumbs/pink_aesthetic_new_b2_02.webp",
-      "regular": "catalog/pink_aesthetic/preview/pink_aesthetic_new_b2_02.webp",
-      "full": "catalog/pink_aesthetic/pink_aesthetic_new_b2_02.png"
+      "thumb": "catalog/soft_pink/thumbs/soft_pink_new_b2_02.webp",
+      "regular": "catalog/soft_pink/preview/soft_pink_new_b2_02.webp",
+      "full": "catalog/soft_pink/soft_pink_new_b2_02.png"
+    },
+    {
+      "id": "after_dark_new_b2_02",
+      "title": "Midnight Rose",
+      "category": "after_dark",
+      "author": "AI",
+      "thumb": "catalog/after_dark/thumbs/after_dark_new_b2_02.webp",
+      "regular": "catalog/after_dark/preview/after_dark_new_b2_02.webp",
+      "full": "catalog/after_dark/after_dark_new_b2_02.png"
     },
     {
       "id": "quotes_new_b1_01",
@@ -174,49 +131,13 @@
       "full": "catalog/quotes/quotes_new_b1_01.png"
     },
     {
-      "id": "coquette_new_b2_02",
-      "title": "Bows & Lace",
-      "category": "coquette",
+      "id": "cute_retro_new_b2_02",
+      "title": "Sweet Retro",
+      "category": "cute_retro",
       "author": "AI",
-      "thumb": "catalog/coquette/thumbs/coquette_new_b2_02.webp",
-      "regular": "catalog/coquette/preview/coquette_new_b2_02.webp",
-      "full": "catalog/coquette/coquette_new_b2_02.png"
-    },
-    {
-      "id": "hearts_new_b2_02",
-      "title": "Love",
-      "category": "hearts",
-      "author": "AI",
-      "thumb": "catalog/hearts/thumbs/hearts_new_b2_02.webp",
-      "regular": "catalog/hearts/preview/hearts_new_b2_02.webp",
-      "full": "catalog/hearts/hearts_new_b2_02.png"
-    },
-    {
-      "id": "butterflies_new_b2_02",
-      "title": "Flutter",
-      "category": "butterflies",
-      "author": "AI",
-      "thumb": "catalog/butterflies/thumbs/butterflies_new_b2_02.webp",
-      "regular": "catalog/butterflies/preview/butterflies_new_b2_02.webp",
-      "full": "catalog/butterflies/butterflies_new_b2_02.png"
-    },
-    {
-      "id": "dark_girly_new_b2_02",
-      "title": "Midnight Rose",
-      "category": "dark_girly",
-      "author": "AI",
-      "thumb": "catalog/dark_girly/thumbs/dark_girly_new_b2_02.webp",
-      "regular": "catalog/dark_girly/preview/dark_girly_new_b2_02.webp",
-      "full": "catalog/dark_girly/dark_girly_new_b2_02.png"
-    },
-    {
-      "id": "y2k_new_b2_02",
-      "title": "Pop Princess",
-      "category": "y2k",
-      "author": "AI",
-      "thumb": "catalog/y2k/thumbs/y2k_new_b2_02.webp",
-      "regular": "catalog/y2k/preview/y2k_new_b2_02.webp",
-      "full": "catalog/y2k/y2k_new_b2_02.png"
+      "thumb": "catalog/cute_retro/thumbs/cute_retro_new_b2_02.webp",
+      "regular": "catalog/cute_retro/preview/cute_retro_new_b2_02.webp",
+      "full": "catalog/cute_retro/cute_retro_new_b2_02.png"
     },
     {
       "id": "floral_new_b2_02",
@@ -237,15 +158,6 @@
       "full": "catalog/dreamy/dreamy_new_b2_02.png"
     },
     {
-      "id": "cute_new_b2_02",
-      "title": "Sweet",
-      "category": "cute",
-      "author": "AI",
-      "thumb": "catalog/cute/thumbs/cute_new_b2_02.webp",
-      "regular": "catalog/cute/preview/cute_new_b2_02.webp",
-      "full": "catalog/cute/cute_new_b2_02.png"
-    },
-    {
       "id": "glitter_new_b2_03",
       "title": "Sparkle",
       "category": "glitter",
@@ -255,13 +167,22 @@
       "full": "catalog/glitter/glitter_new_b2_03.png"
     },
     {
-      "id": "pink_aesthetic_new_b2_03",
+      "id": "soft_pink_new_b2_03",
       "title": "Blush",
-      "category": "pink_aesthetic",
+      "category": "soft_pink",
       "author": "AI",
-      "thumb": "catalog/pink_aesthetic/thumbs/pink_aesthetic_new_b2_03.webp",
-      "regular": "catalog/pink_aesthetic/preview/pink_aesthetic_new_b2_03.webp",
-      "full": "catalog/pink_aesthetic/pink_aesthetic_new_b2_03.png"
+      "thumb": "catalog/soft_pink/thumbs/soft_pink_new_b2_03.webp",
+      "regular": "catalog/soft_pink/preview/soft_pink_new_b2_03.webp",
+      "full": "catalog/soft_pink/soft_pink_new_b2_03.png"
+    },
+    {
+      "id": "after_dark_new_b2_03",
+      "title": "Midnight Rose",
+      "category": "after_dark",
+      "author": "AI",
+      "thumb": "catalog/after_dark/thumbs/after_dark_new_b2_03.webp",
+      "regular": "catalog/after_dark/preview/after_dark_new_b2_03.webp",
+      "full": "catalog/after_dark/after_dark_new_b2_03.png"
     },
     {
       "id": "quotes_new_b1_02",
@@ -273,49 +194,13 @@
       "full": "catalog/quotes/quotes_new_b1_02.png"
     },
     {
-      "id": "coquette_new_b2_03",
-      "title": "Bows & Lace",
-      "category": "coquette",
+      "id": "cute_retro_new_b2_03",
+      "title": "Sweet Retro",
+      "category": "cute_retro",
       "author": "AI",
-      "thumb": "catalog/coquette/thumbs/coquette_new_b2_03.webp",
-      "regular": "catalog/coquette/preview/coquette_new_b2_03.webp",
-      "full": "catalog/coquette/coquette_new_b2_03.png"
-    },
-    {
-      "id": "hearts_new_b2_03",
-      "title": "Love",
-      "category": "hearts",
-      "author": "AI",
-      "thumb": "catalog/hearts/thumbs/hearts_new_b2_03.webp",
-      "regular": "catalog/hearts/preview/hearts_new_b2_03.webp",
-      "full": "catalog/hearts/hearts_new_b2_03.png"
-    },
-    {
-      "id": "butterflies_new_b1_01",
-      "title": "Flutter",
-      "category": "butterflies",
-      "author": "AI",
-      "thumb": "catalog/butterflies/thumbs/butterflies_new_b1_01.webp",
-      "regular": "catalog/butterflies/preview/butterflies_new_b1_01.webp",
-      "full": "catalog/butterflies/butterflies_new_b1_01.png"
-    },
-    {
-      "id": "dark_girly_new_b2_03",
-      "title": "Midnight Rose",
-      "category": "dark_girly",
-      "author": "AI",
-      "thumb": "catalog/dark_girly/thumbs/dark_girly_new_b2_03.webp",
-      "regular": "catalog/dark_girly/preview/dark_girly_new_b2_03.webp",
-      "full": "catalog/dark_girly/dark_girly_new_b2_03.png"
-    },
-    {
-      "id": "y2k_new_b2_03",
-      "title": "Pop Princess",
-      "category": "y2k",
-      "author": "AI",
-      "thumb": "catalog/y2k/thumbs/y2k_new_b2_03.webp",
-      "regular": "catalog/y2k/preview/y2k_new_b2_03.webp",
-      "full": "catalog/y2k/y2k_new_b2_03.png"
+      "thumb": "catalog/cute_retro/thumbs/cute_retro_new_b2_03.webp",
+      "regular": "catalog/cute_retro/preview/cute_retro_new_b2_03.webp",
+      "full": "catalog/cute_retro/cute_retro_new_b2_03.png"
     },
     {
       "id": "floral_new_b2_03",
@@ -336,15 +221,6 @@
       "full": "catalog/dreamy/dreamy_new_b2_03.png"
     },
     {
-      "id": "cute_new_b2_03",
-      "title": "Sweet",
-      "category": "cute",
-      "author": "AI",
-      "thumb": "catalog/cute/thumbs/cute_new_b2_03.webp",
-      "regular": "catalog/cute/preview/cute_new_b2_03.webp",
-      "full": "catalog/cute/cute_new_b2_03.png"
-    },
-    {
       "id": "glitter_new_b2_04",
       "title": "Sparkle",
       "category": "glitter",
@@ -354,13 +230,22 @@
       "full": "catalog/glitter/glitter_new_b2_04.png"
     },
     {
-      "id": "pink_aesthetic_new_b1_01",
+      "id": "soft_pink_new_b2_04",
       "title": "Blush",
-      "category": "pink_aesthetic",
+      "category": "soft_pink",
       "author": "AI",
-      "thumb": "catalog/pink_aesthetic/thumbs/pink_aesthetic_new_b1_01.webp",
-      "regular": "catalog/pink_aesthetic/preview/pink_aesthetic_new_b1_01.webp",
-      "full": "catalog/pink_aesthetic/pink_aesthetic_new_b1_01.png"
+      "thumb": "catalog/soft_pink/thumbs/soft_pink_new_b2_04.webp",
+      "regular": "catalog/soft_pink/preview/soft_pink_new_b2_04.webp",
+      "full": "catalog/soft_pink/soft_pink_new_b2_04.png"
+    },
+    {
+      "id": "after_dark_new_b2_04",
+      "title": "Midnight Rose",
+      "category": "after_dark",
+      "author": "AI",
+      "thumb": "catalog/after_dark/thumbs/after_dark_new_b2_04.webp",
+      "regular": "catalog/after_dark/preview/after_dark_new_b2_04.webp",
+      "full": "catalog/after_dark/after_dark_new_b2_04.png"
     },
     {
       "id": "quotes_new_b1_03",
@@ -372,40 +257,13 @@
       "full": "catalog/quotes/quotes_new_b1_03.png"
     },
     {
-      "id": "coquette_new_b2_04",
-      "title": "Bows & Lace",
-      "category": "coquette",
+      "id": "cute_retro_new_b2_04",
+      "title": "Sweet Retro",
+      "category": "cute_retro",
       "author": "AI",
-      "thumb": "catalog/coquette/thumbs/coquette_new_b2_04.webp",
-      "regular": "catalog/coquette/preview/coquette_new_b2_04.webp",
-      "full": "catalog/coquette/coquette_new_b2_04.png"
-    },
-    {
-      "id": "hearts_new_b1_01",
-      "title": "Love",
-      "category": "hearts",
-      "author": "AI",
-      "thumb": "catalog/hearts/thumbs/hearts_new_b1_01.webp",
-      "regular": "catalog/hearts/preview/hearts_new_b1_01.webp",
-      "full": "catalog/hearts/hearts_new_b1_01.png"
-    },
-    {
-      "id": "dark_girly_new_b2_04",
-      "title": "Midnight Rose",
-      "category": "dark_girly",
-      "author": "AI",
-      "thumb": "catalog/dark_girly/thumbs/dark_girly_new_b2_04.webp",
-      "regular": "catalog/dark_girly/preview/dark_girly_new_b2_04.webp",
-      "full": "catalog/dark_girly/dark_girly_new_b2_04.png"
-    },
-    {
-      "id": "y2k_new_b2_04",
-      "title": "Pop Princess",
-      "category": "y2k",
-      "author": "AI",
-      "thumb": "catalog/y2k/thumbs/y2k_new_b2_04.webp",
-      "regular": "catalog/y2k/preview/y2k_new_b2_04.webp",
-      "full": "catalog/y2k/y2k_new_b2_04.png"
+      "thumb": "catalog/cute_retro/thumbs/cute_retro_new_b2_04.webp",
+      "regular": "catalog/cute_retro/preview/cute_retro_new_b2_04.webp",
+      "full": "catalog/cute_retro/cute_retro_new_b2_04.png"
     },
     {
       "id": "floral_new_b2_04",
@@ -426,15 +284,6 @@
       "full": "catalog/dreamy/dreamy_new_b2_04.png"
     },
     {
-      "id": "cute_new_b2_04",
-      "title": "Sweet",
-      "category": "cute",
-      "author": "AI",
-      "thumb": "catalog/cute/thumbs/cute_new_b2_04.webp",
-      "regular": "catalog/cute/preview/cute_new_b2_04.webp",
-      "full": "catalog/cute/cute_new_b2_04.png"
-    },
-    {
       "id": "glitter_new_b2_05",
       "title": "Sparkle",
       "category": "glitter",
@@ -444,13 +293,22 @@
       "full": "catalog/glitter/glitter_new_b2_05.png"
     },
     {
-      "id": "pink_aesthetic_new_b1_02",
+      "id": "soft_pink_new_b2_05",
       "title": "Blush",
-      "category": "pink_aesthetic",
+      "category": "soft_pink",
       "author": "AI",
-      "thumb": "catalog/pink_aesthetic/thumbs/pink_aesthetic_new_b1_02.webp",
-      "regular": "catalog/pink_aesthetic/preview/pink_aesthetic_new_b1_02.webp",
-      "full": "catalog/pink_aesthetic/pink_aesthetic_new_b1_02.png"
+      "thumb": "catalog/soft_pink/thumbs/soft_pink_new_b2_05.webp",
+      "regular": "catalog/soft_pink/preview/soft_pink_new_b2_05.webp",
+      "full": "catalog/soft_pink/soft_pink_new_b2_05.png"
+    },
+    {
+      "id": "after_dark_new_b2_05",
+      "title": "Midnight Rose",
+      "category": "after_dark",
+      "author": "AI",
+      "thumb": "catalog/after_dark/thumbs/after_dark_new_b2_05.webp",
+      "regular": "catalog/after_dark/preview/after_dark_new_b2_05.webp",
+      "full": "catalog/after_dark/after_dark_new_b2_05.png"
     },
     {
       "id": "quotes_new_b1_04",
@@ -462,31 +320,13 @@
       "full": "catalog/quotes/quotes_new_b1_04.png"
     },
     {
-      "id": "coquette_new_b1_01",
-      "title": "Bows & Lace",
-      "category": "coquette",
+      "id": "cute_retro_new_b2_05",
+      "title": "Sweet Retro",
+      "category": "cute_retro",
       "author": "AI",
-      "thumb": "catalog/coquette/thumbs/coquette_new_b1_01.webp",
-      "regular": "catalog/coquette/preview/coquette_new_b1_01.webp",
-      "full": "catalog/coquette/coquette_new_b1_01.png"
-    },
-    {
-      "id": "dark_girly_new_b2_05",
-      "title": "Midnight Rose",
-      "category": "dark_girly",
-      "author": "AI",
-      "thumb": "catalog/dark_girly/thumbs/dark_girly_new_b2_05.webp",
-      "regular": "catalog/dark_girly/preview/dark_girly_new_b2_05.webp",
-      "full": "catalog/dark_girly/dark_girly_new_b2_05.png"
-    },
-    {
-      "id": "y2k_new_b2_05",
-      "title": "Pop Princess",
-      "category": "y2k",
-      "author": "AI",
-      "thumb": "catalog/y2k/thumbs/y2k_new_b2_05.webp",
-      "regular": "catalog/y2k/preview/y2k_new_b2_05.webp",
-      "full": "catalog/y2k/y2k_new_b2_05.png"
+      "thumb": "catalog/cute_retro/thumbs/cute_retro_new_b2_05.webp",
+      "regular": "catalog/cute_retro/preview/cute_retro_new_b2_05.webp",
+      "full": "catalog/cute_retro/cute_retro_new_b2_05.png"
     },
     {
       "id": "floral_new_b2_05",
@@ -507,15 +347,6 @@
       "full": "catalog/dreamy/dreamy_new_b2_05.png"
     },
     {
-      "id": "cute_new_b2_05",
-      "title": "Sweet",
-      "category": "cute",
-      "author": "AI",
-      "thumb": "catalog/cute/thumbs/cute_new_b2_05.webp",
-      "regular": "catalog/cute/preview/cute_new_b2_05.webp",
-      "full": "catalog/cute/cute_new_b2_05.png"
-    },
-    {
       "id": "glitter_new_b2_06",
       "title": "Sparkle",
       "category": "glitter",
@@ -523,6 +354,24 @@
       "thumb": "catalog/glitter/thumbs/glitter_new_b2_06.webp",
       "regular": "catalog/glitter/preview/glitter_new_b2_06.webp",
       "full": "catalog/glitter/glitter_new_b2_06.png"
+    },
+    {
+      "id": "soft_pink_new_b2_06",
+      "title": "Blush",
+      "category": "soft_pink",
+      "author": "AI",
+      "thumb": "catalog/soft_pink/thumbs/soft_pink_new_b2_06.webp",
+      "regular": "catalog/soft_pink/preview/soft_pink_new_b2_06.webp",
+      "full": "catalog/soft_pink/soft_pink_new_b2_06.png"
+    },
+    {
+      "id": "after_dark_new_b2_06",
+      "title": "Midnight Rose",
+      "category": "after_dark",
+      "author": "AI",
+      "thumb": "catalog/after_dark/thumbs/after_dark_new_b2_06.webp",
+      "regular": "catalog/after_dark/preview/after_dark_new_b2_06.webp",
+      "full": "catalog/after_dark/after_dark_new_b2_06.png"
     },
     {
       "id": "quotes_new_b1_05",
@@ -534,31 +383,13 @@
       "full": "catalog/quotes/quotes_new_b1_05.png"
     },
     {
-      "id": "coquette_new_b1_02",
-      "title": "Bows & Lace",
-      "category": "coquette",
+      "id": "cute_retro_new_b2_06",
+      "title": "Sweet Retro",
+      "category": "cute_retro",
       "author": "AI",
-      "thumb": "catalog/coquette/thumbs/coquette_new_b1_02.webp",
-      "regular": "catalog/coquette/preview/coquette_new_b1_02.webp",
-      "full": "catalog/coquette/coquette_new_b1_02.png"
-    },
-    {
-      "id": "dark_girly_new_b2_06",
-      "title": "Midnight Rose",
-      "category": "dark_girly",
-      "author": "AI",
-      "thumb": "catalog/dark_girly/thumbs/dark_girly_new_b2_06.webp",
-      "regular": "catalog/dark_girly/preview/dark_girly_new_b2_06.webp",
-      "full": "catalog/dark_girly/dark_girly_new_b2_06.png"
-    },
-    {
-      "id": "y2k_new_b1_01",
-      "title": "Pop Princess",
-      "category": "y2k",
-      "author": "AI",
-      "thumb": "catalog/y2k/thumbs/y2k_new_b1_01.webp",
-      "regular": "catalog/y2k/preview/y2k_new_b1_01.webp",
-      "full": "catalog/y2k/y2k_new_b1_01.png"
+      "thumb": "catalog/cute_retro/thumbs/cute_retro_new_b2_06.webp",
+      "regular": "catalog/cute_retro/preview/cute_retro_new_b2_06.webp",
+      "full": "catalog/cute_retro/cute_retro_new_b2_06.png"
     },
     {
       "id": "floral_new_b2_06",
@@ -579,22 +410,31 @@
       "full": "catalog/dreamy/dreamy_new_b2_06.png"
     },
     {
-      "id": "cute_new_b2_06",
-      "title": "Sweet",
-      "category": "cute",
-      "author": "AI",
-      "thumb": "catalog/cute/thumbs/cute_new_b2_06.webp",
-      "regular": "catalog/cute/preview/cute_new_b2_06.webp",
-      "full": "catalog/cute/cute_new_b2_06.png"
-    },
-    {
-      "id": "glitter_new_b1_01",
+      "id": "glitter_new_b2_07",
       "title": "Sparkle",
       "category": "glitter",
       "author": "AI",
-      "thumb": "catalog/glitter/thumbs/glitter_new_b1_01.webp",
-      "regular": "catalog/glitter/preview/glitter_new_b1_01.webp",
-      "full": "catalog/glitter/glitter_new_b1_01.png"
+      "thumb": "catalog/glitter/thumbs/glitter_new_b2_07.webp",
+      "regular": "catalog/glitter/preview/glitter_new_b2_07.webp",
+      "full": "catalog/glitter/glitter_new_b2_07.png"
+    },
+    {
+      "id": "soft_pink_new_b2_07",
+      "title": "Blush",
+      "category": "soft_pink",
+      "author": "AI",
+      "thumb": "catalog/soft_pink/thumbs/soft_pink_new_b2_07.webp",
+      "regular": "catalog/soft_pink/preview/soft_pink_new_b2_07.webp",
+      "full": "catalog/soft_pink/soft_pink_new_b2_07.png"
+    },
+    {
+      "id": "after_dark_new_b2_07",
+      "title": "Midnight Rose",
+      "category": "after_dark",
+      "author": "AI",
+      "thumb": "catalog/after_dark/thumbs/after_dark_new_b2_07.webp",
+      "regular": "catalog/after_dark/preview/after_dark_new_b2_07.webp",
+      "full": "catalog/after_dark/after_dark_new_b2_07.png"
     },
     {
       "id": "quotes_new_b1_06",
@@ -606,22 +446,13 @@
       "full": "catalog/quotes/quotes_new_b1_06.png"
     },
     {
-      "id": "dark_girly_new_b1_01",
-      "title": "Midnight Rose",
-      "category": "dark_girly",
+      "id": "cute_retro_new_b2_07",
+      "title": "Sweet Retro",
+      "category": "cute_retro",
       "author": "AI",
-      "thumb": "catalog/dark_girly/thumbs/dark_girly_new_b1_01.webp",
-      "regular": "catalog/dark_girly/preview/dark_girly_new_b1_01.webp",
-      "full": "catalog/dark_girly/dark_girly_new_b1_01.png"
-    },
-    {
-      "id": "y2k_new_b1_02",
-      "title": "Pop Princess",
-      "category": "y2k",
-      "author": "AI",
-      "thumb": "catalog/y2k/thumbs/y2k_new_b1_02.webp",
-      "regular": "catalog/y2k/preview/y2k_new_b1_02.webp",
-      "full": "catalog/y2k/y2k_new_b1_02.png"
+      "thumb": "catalog/cute_retro/thumbs/cute_retro_new_b2_07.webp",
+      "regular": "catalog/cute_retro/preview/cute_retro_new_b2_07.webp",
+      "full": "catalog/cute_retro/cute_retro_new_b2_07.png"
     },
     {
       "id": "floral_new_b2_07",
@@ -642,13 +473,31 @@
       "full": "catalog/dreamy/dreamy_new_b2_07.png"
     },
     {
-      "id": "cute_new_b1_01",
-      "title": "Sweet",
-      "category": "cute",
+      "id": "glitter_new_b2_08",
+      "title": "Sparkle",
+      "category": "glitter",
       "author": "AI",
-      "thumb": "catalog/cute/thumbs/cute_new_b1_01.webp",
-      "regular": "catalog/cute/preview/cute_new_b1_01.webp",
-      "full": "catalog/cute/cute_new_b1_01.png"
+      "thumb": "catalog/glitter/thumbs/glitter_new_b2_08.webp",
+      "regular": "catalog/glitter/preview/glitter_new_b2_08.webp",
+      "full": "catalog/glitter/glitter_new_b2_08.png"
+    },
+    {
+      "id": "soft_pink_new_b2_08",
+      "title": "Blush",
+      "category": "soft_pink",
+      "author": "AI",
+      "thumb": "catalog/soft_pink/thumbs/soft_pink_new_b2_08.webp",
+      "regular": "catalog/soft_pink/preview/soft_pink_new_b2_08.webp",
+      "full": "catalog/soft_pink/soft_pink_new_b2_08.png"
+    },
+    {
+      "id": "after_dark_new_b2_08",
+      "title": "Midnight Rose",
+      "category": "after_dark",
+      "author": "AI",
+      "thumb": "catalog/after_dark/thumbs/after_dark_new_b2_08.webp",
+      "regular": "catalog/after_dark/preview/after_dark_new_b2_08.webp",
+      "full": "catalog/after_dark/after_dark_new_b2_08.png"
     },
     {
       "id": "quotes_new_b1_07",
@@ -660,22 +509,13 @@
       "full": "catalog/quotes/quotes_new_b1_07.png"
     },
     {
-      "id": "dark_girly_new_b1_02",
-      "title": "Midnight Rose",
-      "category": "dark_girly",
+      "id": "cute_retro_new_b2_08",
+      "title": "Sweet Retro",
+      "category": "cute_retro",
       "author": "AI",
-      "thumb": "catalog/dark_girly/thumbs/dark_girly_new_b1_02.webp",
-      "regular": "catalog/dark_girly/preview/dark_girly_new_b1_02.webp",
-      "full": "catalog/dark_girly/dark_girly_new_b1_02.png"
-    },
-    {
-      "id": "y2k_new_b1_03",
-      "title": "Pop Princess",
-      "category": "y2k",
-      "author": "AI",
-      "thumb": "catalog/y2k/thumbs/y2k_new_b1_03.webp",
-      "regular": "catalog/y2k/preview/y2k_new_b1_03.webp",
-      "full": "catalog/y2k/y2k_new_b1_03.png"
+      "thumb": "catalog/cute_retro/thumbs/cute_retro_new_b2_08.webp",
+      "regular": "catalog/cute_retro/preview/cute_retro_new_b2_08.webp",
+      "full": "catalog/cute_retro/cute_retro_new_b2_08.png"
     },
     {
       "id": "floral_new_b2_08",
@@ -696,13 +536,31 @@
       "full": "catalog/dreamy/dreamy_new_b1_01.png"
     },
     {
-      "id": "cute_new_b1_02",
-      "title": "Sweet",
-      "category": "cute",
+      "id": "glitter_new_b1_01",
+      "title": "Sparkle",
+      "category": "glitter",
       "author": "AI",
-      "thumb": "catalog/cute/thumbs/cute_new_b1_02.webp",
-      "regular": "catalog/cute/preview/cute_new_b1_02.webp",
-      "full": "catalog/cute/cute_new_b1_02.png"
+      "thumb": "catalog/glitter/thumbs/glitter_new_b1_01.webp",
+      "regular": "catalog/glitter/preview/glitter_new_b1_01.webp",
+      "full": "catalog/glitter/glitter_new_b1_01.png"
+    },
+    {
+      "id": "soft_pink_new_b1_01",
+      "title": "Blush",
+      "category": "soft_pink",
+      "author": "AI",
+      "thumb": "catalog/soft_pink/thumbs/soft_pink_new_b1_01.webp",
+      "regular": "catalog/soft_pink/preview/soft_pink_new_b1_01.webp",
+      "full": "catalog/soft_pink/soft_pink_new_b1_01.png"
+    },
+    {
+      "id": "after_dark_new_b2_09",
+      "title": "Midnight Rose",
+      "category": "after_dark",
+      "author": "AI",
+      "thumb": "catalog/after_dark/thumbs/after_dark_new_b2_09.webp",
+      "regular": "catalog/after_dark/preview/after_dark_new_b2_09.webp",
+      "full": "catalog/after_dark/after_dark_new_b2_09.png"
     },
     {
       "id": "quotes_new_b1_08",
@@ -714,22 +572,13 @@
       "full": "catalog/quotes/quotes_new_b1_08.png"
     },
     {
-      "id": "dark_girly_new_b1_03",
-      "title": "Midnight Rose",
-      "category": "dark_girly",
+      "id": "cute_retro_new_b2_09",
+      "title": "Sweet Retro",
+      "category": "cute_retro",
       "author": "AI",
-      "thumb": "catalog/dark_girly/thumbs/dark_girly_new_b1_03.webp",
-      "regular": "catalog/dark_girly/preview/dark_girly_new_b1_03.webp",
-      "full": "catalog/dark_girly/dark_girly_new_b1_03.png"
-    },
-    {
-      "id": "y2k_new_b1_04",
-      "title": "Pop Princess",
-      "category": "y2k",
-      "author": "AI",
-      "thumb": "catalog/y2k/thumbs/y2k_new_b1_04.webp",
-      "regular": "catalog/y2k/preview/y2k_new_b1_04.webp",
-      "full": "catalog/y2k/y2k_new_b1_04.png"
+      "thumb": "catalog/cute_retro/thumbs/cute_retro_new_b2_09.webp",
+      "regular": "catalog/cute_retro/preview/cute_retro_new_b2_09.webp",
+      "full": "catalog/cute_retro/cute_retro_new_b2_09.png"
     },
     {
       "id": "floral_new_b2_09",
@@ -750,22 +599,31 @@
       "full": "catalog/dreamy/dreamy_new_b1_02.png"
     },
     {
-      "id": "dark_girly_new_b1_04",
-      "title": "Midnight Rose",
-      "category": "dark_girly",
+      "id": "soft_pink_new_b1_02",
+      "title": "Blush",
+      "category": "soft_pink",
       "author": "AI",
-      "thumb": "catalog/dark_girly/thumbs/dark_girly_new_b1_04.webp",
-      "regular": "catalog/dark_girly/preview/dark_girly_new_b1_04.webp",
-      "full": "catalog/dark_girly/dark_girly_new_b1_04.png"
+      "thumb": "catalog/soft_pink/thumbs/soft_pink_new_b1_02.webp",
+      "regular": "catalog/soft_pink/preview/soft_pink_new_b1_02.webp",
+      "full": "catalog/soft_pink/soft_pink_new_b1_02.png"
     },
     {
-      "id": "y2k_new_b1_05",
-      "title": "Pop Princess",
-      "category": "y2k",
+      "id": "after_dark_new_b1_01",
+      "title": "Midnight Rose",
+      "category": "after_dark",
       "author": "AI",
-      "thumb": "catalog/y2k/thumbs/y2k_new_b1_05.webp",
-      "regular": "catalog/y2k/preview/y2k_new_b1_05.webp",
-      "full": "catalog/y2k/y2k_new_b1_05.png"
+      "thumb": "catalog/after_dark/thumbs/after_dark_new_b1_01.webp",
+      "regular": "catalog/after_dark/preview/after_dark_new_b1_01.webp",
+      "full": "catalog/after_dark/after_dark_new_b1_01.png"
+    },
+    {
+      "id": "cute_retro_new_b2_10",
+      "title": "Sweet Retro",
+      "category": "cute_retro",
+      "author": "AI",
+      "thumb": "catalog/cute_retro/thumbs/cute_retro_new_b2_10.webp",
+      "regular": "catalog/cute_retro/preview/cute_retro_new_b2_10.webp",
+      "full": "catalog/cute_retro/cute_retro_new_b2_10.png"
     },
     {
       "id": "floral_new_b2_10",
@@ -786,13 +644,31 @@
       "full": "catalog/dreamy/dreamy_new_b1_03.png"
     },
     {
-      "id": "dark_girly_new_b1_05",
-      "title": "Midnight Rose",
-      "category": "dark_girly",
+      "id": "soft_pink_new_b1_03",
+      "title": "Blush",
+      "category": "soft_pink",
       "author": "AI",
-      "thumb": "catalog/dark_girly/thumbs/dark_girly_new_b1_05.webp",
-      "regular": "catalog/dark_girly/preview/dark_girly_new_b1_05.webp",
-      "full": "catalog/dark_girly/dark_girly_new_b1_05.png"
+      "thumb": "catalog/soft_pink/thumbs/soft_pink_new_b1_03.webp",
+      "regular": "catalog/soft_pink/preview/soft_pink_new_b1_03.webp",
+      "full": "catalog/soft_pink/soft_pink_new_b1_03.png"
+    },
+    {
+      "id": "after_dark_new_b1_02",
+      "title": "Midnight Rose",
+      "category": "after_dark",
+      "author": "AI",
+      "thumb": "catalog/after_dark/thumbs/after_dark_new_b1_02.webp",
+      "regular": "catalog/after_dark/preview/after_dark_new_b1_02.webp",
+      "full": "catalog/after_dark/after_dark_new_b1_02.png"
+    },
+    {
+      "id": "cute_retro_new_b1_01",
+      "title": "Sweet Retro",
+      "category": "cute_retro",
+      "author": "AI",
+      "thumb": "catalog/cute_retro/thumbs/cute_retro_new_b1_01.webp",
+      "regular": "catalog/cute_retro/preview/cute_retro_new_b1_01.webp",
+      "full": "catalog/cute_retro/cute_retro_new_b1_01.png"
     },
     {
       "id": "floral_new_b2_11",
@@ -804,6 +680,33 @@
       "full": "catalog/floral/floral_new_b2_11.png"
     },
     {
+      "id": "soft_pink_new_b1_04",
+      "title": "Blush",
+      "category": "soft_pink",
+      "author": "AI",
+      "thumb": "catalog/soft_pink/thumbs/soft_pink_new_b1_04.webp",
+      "regular": "catalog/soft_pink/preview/soft_pink_new_b1_04.webp",
+      "full": "catalog/soft_pink/soft_pink_new_b1_04.png"
+    },
+    {
+      "id": "after_dark_new_b1_03",
+      "title": "Midnight Rose",
+      "category": "after_dark",
+      "author": "AI",
+      "thumb": "catalog/after_dark/thumbs/after_dark_new_b1_03.webp",
+      "regular": "catalog/after_dark/preview/after_dark_new_b1_03.webp",
+      "full": "catalog/after_dark/after_dark_new_b1_03.png"
+    },
+    {
+      "id": "cute_retro_new_b1_02",
+      "title": "Sweet Retro",
+      "category": "cute_retro",
+      "author": "AI",
+      "thumb": "catalog/cute_retro/thumbs/cute_retro_new_b1_02.webp",
+      "regular": "catalog/cute_retro/preview/cute_retro_new_b1_02.webp",
+      "full": "catalog/cute_retro/cute_retro_new_b1_02.png"
+    },
+    {
       "id": "floral_new_b1_01",
       "title": "Bloom",
       "category": "floral",
@@ -811,6 +714,33 @@
       "thumb": "catalog/floral/thumbs/floral_new_b1_01.webp",
       "regular": "catalog/floral/preview/floral_new_b1_01.webp",
       "full": "catalog/floral/floral_new_b1_01.png"
+    },
+    {
+      "id": "soft_pink_new_b1_05",
+      "title": "Blush",
+      "category": "soft_pink",
+      "author": "AI",
+      "thumb": "catalog/soft_pink/thumbs/soft_pink_new_b1_05.webp",
+      "regular": "catalog/soft_pink/preview/soft_pink_new_b1_05.webp",
+      "full": "catalog/soft_pink/soft_pink_new_b1_05.png"
+    },
+    {
+      "id": "after_dark_new_b1_04",
+      "title": "Midnight Rose",
+      "category": "after_dark",
+      "author": "AI",
+      "thumb": "catalog/after_dark/thumbs/after_dark_new_b1_04.webp",
+      "regular": "catalog/after_dark/preview/after_dark_new_b1_04.webp",
+      "full": "catalog/after_dark/after_dark_new_b1_04.png"
+    },
+    {
+      "id": "cute_retro_new_b1_03",
+      "title": "Sweet Retro",
+      "category": "cute_retro",
+      "author": "AI",
+      "thumb": "catalog/cute_retro/thumbs/cute_retro_new_b1_03.webp",
+      "regular": "catalog/cute_retro/preview/cute_retro_new_b1_03.webp",
+      "full": "catalog/cute_retro/cute_retro_new_b1_03.png"
     },
     {
       "id": "floral_new_b1_02",
@@ -822,6 +752,24 @@
       "full": "catalog/floral/floral_new_b1_02.png"
     },
     {
+      "id": "after_dark_new_b1_05",
+      "title": "Midnight Rose",
+      "category": "after_dark",
+      "author": "AI",
+      "thumb": "catalog/after_dark/thumbs/after_dark_new_b1_05.webp",
+      "regular": "catalog/after_dark/preview/after_dark_new_b1_05.webp",
+      "full": "catalog/after_dark/after_dark_new_b1_05.png"
+    },
+    {
+      "id": "cute_retro_new_b1_04",
+      "title": "Sweet Retro",
+      "category": "cute_retro",
+      "author": "AI",
+      "thumb": "catalog/cute_retro/thumbs/cute_retro_new_b1_04.webp",
+      "regular": "catalog/cute_retro/preview/cute_retro_new_b1_04.webp",
+      "full": "catalog/cute_retro/cute_retro_new_b1_04.png"
+    },
+    {
       "id": "floral_new_b1_03",
       "title": "Bloom",
       "category": "floral",
@@ -831,6 +779,24 @@
       "full": "catalog/floral/floral_new_b1_03.png"
     },
     {
+      "id": "after_dark_new_b1_06",
+      "title": "Midnight Rose",
+      "category": "after_dark",
+      "author": "AI",
+      "thumb": "catalog/after_dark/thumbs/after_dark_new_b1_06.webp",
+      "regular": "catalog/after_dark/preview/after_dark_new_b1_06.webp",
+      "full": "catalog/after_dark/after_dark_new_b1_06.png"
+    },
+    {
+      "id": "cute_retro_new_b1_05",
+      "title": "Sweet Retro",
+      "category": "cute_retro",
+      "author": "AI",
+      "thumb": "catalog/cute_retro/thumbs/cute_retro_new_b1_05.webp",
+      "regular": "catalog/cute_retro/preview/cute_retro_new_b1_05.webp",
+      "full": "catalog/cute_retro/cute_retro_new_b1_05.png"
+    },
+    {
       "id": "floral_new_b1_04",
       "title": "Bloom",
       "category": "floral",
@@ -838,6 +804,24 @@
       "thumb": "catalog/floral/thumbs/floral_new_b1_04.webp",
       "regular": "catalog/floral/preview/floral_new_b1_04.webp",
       "full": "catalog/floral/floral_new_b1_04.png"
+    },
+    {
+      "id": "cute_retro_new_b1_06",
+      "title": "Sweet Retro",
+      "category": "cute_retro",
+      "author": "AI",
+      "thumb": "catalog/cute_retro/thumbs/cute_retro_new_b1_06.webp",
+      "regular": "catalog/cute_retro/preview/cute_retro_new_b1_06.webp",
+      "full": "catalog/cute_retro/cute_retro_new_b1_06.png"
+    },
+    {
+      "id": "cute_retro_new_b1_07",
+      "title": "Sweet Retro",
+      "category": "cute_retro",
+      "author": "AI",
+      "thumb": "catalog/cute_retro/thumbs/cute_retro_new_b1_07.webp",
+      "regular": "catalog/cute_retro/preview/cute_retro_new_b1_07.webp",
+      "full": "catalog/cute_retro/cute_retro_new_b1_07.png"
     }
   ]
 }
